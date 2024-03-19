@@ -1,2 +1,417 @@
-"use strict";(self["webpackChunkiristravel_v3"]=self["webpackChunkiristravel_v3"]||[]).push([[929],{5073:function(e,a,o){o.r(a),o.d(a,{default:function(){return f}});var s=o(3396),n=o(7139);const i=e=>((0,s.dD)("data-v-0b4cef36"),e=e(),(0,s.Cn)(),e),d={class:"bg-white"},c=i((()=>(0,s._)("h2",{class:"text-3xl pt-6 text-blue_1 md:text-4xl lg:text-3xl"},"- Términos y Políticas -",-1))),r={class:"font-Clarissa text-5xl"},l=(0,s.uE)('<section class="bg-white text-white" data-v-0b4cef36><div class="bg-blue_1 pb-10" data-v-0b4cef36><article class="py-10 m-auto md:w-8/12 text-justify font-DIN px-4 md:px-0 text-sm md:text-xl" data-v-0b4cef36><h3 data-v-0b4cef36>Términos y Condiciones IRIS TRAVEL GROUP</h3><p data-v-0b4cef36>Los términos y condiciones que se presentan a continuación, regulan las relaciones con nuestros usuarios y establecen la forma en que se deben utilizar nuestros productos y servicios, le recomendamos leerlos con detenimiento, previo a cualquier solicitud. Una vez expresada su conformidad con dichos términos, significa que usted leyó y comprendió todos los términos y condiciones relativos a las políticas formuladas. </p><h3 data-v-0b4cef36>Pagos</h3><p data-v-0b4cef36>Los pagos se realizarán por adelantado, por transferencia, efectivo o por tarjeta de crédito la que será debitada, dentro de un plazo de 24 horas, después de acordado con el Comercial que le brinda asistencia. La Agencia solo acepta pagos en línea con las tarjetas de crédito siguientes: Visa, MasterCard y American Express. Los precios de los servicios pueden estar sujetos a cambios, con excepción de aquellos casos en que la reservación ha sido confirmada. En caso de cambios relativos a un aumento en el precio/tarifa, la suma se abonará en el momento del cambio y no será efectivo hasta tanto no se haya recibido dicho pago y hasta que el suministrador no haya confirmado la disponibilidad. </p><h3 data-v-0b4cef36>Cancelaciones - Reembolsos</h3><p data-v-0b4cef36>Todos los servicios no son reembolsables, si el cliente tuviese necesidad de cambiar o cancelar sus planes de viaje, será responsabilidad suya notificar a la Agencia por escrito de dicho cambio.</p><p data-v-0b4cef36>Una vez efectuado el pago de la reservación, se aplicará la siguiente política de cancelación, penalidades y No Show:</p><p data-v-0b4cef36>Gastos de cancelación: De acuerdo a lo estipulado en la política de cancelación de cada producto (hoteles, casas, coches, traslados, vuelos internacionales, boletos domésticos, excursiones, etc).</p><h3 data-v-0b4cef36>Incidencias durante el viaje</h3><p data-v-0b4cef36>El cliente deberá comunicar por escrito todo incumplimiento en la ejecución del contrato, dirigiéndose para ello al organizador, a la agencia de viajes o al especialista comercial que ofreció el servicio.</p><p data-v-0b4cef36>El cliente deberá comunicar por escrito todo incumplimiento en la ejecución del contrato, dirigiéndose para ello al organizador, a la agencia de viajes o al especialista comercial que ofreció el servicio.</p><br data-v-0b4cef36><br data-v-0b4cef36><h3 data-v-0b4cef36>RELATIVO A LOS SERVICIOS QUE SE OFRECEN</h3><h3 data-v-0b4cef36>Alojamiento en Hoteles o Casas de Renta</h3><p data-v-0b4cef36>Debe informarse al cliente que es imprescindible presentar el <strong data-v-0b4cef36>pasaporte</strong> o <strong data-v-0b4cef36>carné de identidad</strong> en el momento del check in. Algunos hoteles exigen también la presentación de la tarjeta de embarque/desembarque.</p><p data-v-0b4cef36>Las casas se pueden rentar por habitaciones o la casa completa según sean las condiciones de cada casa en particular.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Reservaciones y Pagos:</strong> Le ofrecemos la disponibilidad de habitaciones y la confirmación del servicio en un término de 24 a 48 horas, para toda una gama de hoteles en diferentes destinos. En casos de afectaciones de última hora en el Hotel/Casa confirmado/a, La Agencia garantizará su remplazo de similar categoría, en la misma ciudad. El cargo total incluye los cargos por concepto de habitación e impuestos, al igual que las tarifas de acceso y reservación. Cargos incidentales, tales como parqueo, llamadas telefónicas y servicio de habitación, serán cubiertos por el cliente, directamente con el hotel.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Cancelación y Reembolso:</strong> Una vez efectuado el pago por su reservación, se aplicará la siguiente política de cancelación:</p><ul class="list-disc pl-10" data-v-0b4cef36><li data-v-0b4cef36>Si el cliente cancela su reservación, dentro de un plazo de 72 horas o menos, antes de la fecha acordada de su llegada, el cliente recibirá el monto de la reservación menos el precio de una noche/habitación, por no presentarse en la fecha acordada.</li><li data-v-0b4cef36>Toda solicitud de reembolso se hará dentro de un plazo de 30 días, después de haber dejado el hotel. Reembolsos por concepto de salida antes de tiempo, o por no presentación, se harán a discreción de La Agencia, únicamente.</li></ul><p data-v-0b4cef36><strong data-v-0b4cef36>Estacionamiento: </strong>Cortesía del hotel/casa.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Habitaciones para fumadores: </strong>A solicitud del huésped.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Mascotas: </strong>No se permiten mascotas.</p><div data-v-0b4cef36><p data-v-0b4cef36><strong data-v-0b4cef36>Check-In &amp; Out</strong><br data-v-0b4cef36> Check-in: 16:00 hrs. (Hoteles) / 14:00 (Casas) <br data-v-0b4cef36> Check-out: 12:00 hrs.</p></div><div data-v-0b4cef36><p data-v-0b4cef36><strong data-v-0b4cef36>Late Check-Out</strong><br data-v-0b4cef36> A veces es posible, aunque debe ser solicitada con al menos 24 horas de antelación, y sujeto a la disponibilidad de habitaciones, y a un cargo por concepto de salida demorada.</p></div><div data-v-0b4cef36><p data-v-0b4cef36><strong data-v-0b4cef36>Late Check-Out</strong><br data-v-0b4cef36> A veces es posible, aunque debe ser solicitada con al menos 24 horas de antelación, y sujeto a la disponibilidad de habitaciones, y a un cargo por concepto de salida demorada.</p></div><h3 data-v-0b4cef36>Vuelos Internacionales</h3><ul class="list-disc pl-10" data-v-0b4cef36><li data-v-0b4cef36>Las autoridades correspondientes tendrán el derecho de negar la transportación a personas y/o su equipaje, cuando de conformidad con las normas aplicables determine que ello podría implicar un riesgo o peligro, o bien, que la transportación de dichas personas, equipajes y/o pertenencias se encuentre prohibida por disposiciones o restricciones legales aplicables. Con este fin, podrán revisar a las personas, sus equipajes y/o pertenencias que se llevarán a bordo de la aeronave.</li><li data-v-0b4cef36>El pasajero es responsable de traer consigo al momento de la documentación del vuelo toda la documentación personal correspondiente completa y vigente y de cumplir con las disposiciones sobre aduanas, migración, sanidad, de policía y otras disposiciones que sean aplicables para permitirles la salida del país, así como el ingreso al o los países de destino, así como en los lugares en que, en su caso, se llegare a realizar escalas.</li><li data-v-0b4cef36>En caso de comprar solo una ruta (OneWay), el pasajero deberá llevar consigo su boleto de retorno el día del vuelo, para presentarlo en el momento del Check In en el aeropuerto, en caso de que se le solicite</li><li data-v-0b4cef36>La reservación será válida solamente para la fecha que fue adquirida; por lo tanto, el pasajero se obliga a cubrir un cargo adicional si cambia de fecha, vuelo, o si la cancela. El que las modificaciones mencionadas sean permitidas, depende de la anticipación con que se soliciten.</li><li data-v-0b4cef36>Las solicitudes de cambio de fecha solo podrán realizarse con un mínimo de 15 días previos a la fecha del boleto confirmado. De confirmarse el cambio de fecha, procederá un cargo extra, que será comunicado al cliente en la fecha de solicitud del cambio.</li><li data-v-0b4cef36>En caso de No Show, aplicará una penalidad del 100%. Los reembolsos se harán sólo a la persona que adquirió el boleto, pasaje o emitidos a la orden, la cual proporcionará los documentos de pago original.</li><li data-v-0b4cef36>Algunas tarifas y promociones no aplican en puentes y/o días festivos.</li><li data-v-0b4cef36>Si el pasajero no utiliza su boleto o no realizó ningún cambio antes de la salida del vuelo, éste no será válido en otra fecha.</li><li data-v-0b4cef36>El pasajero deberá presentarse en el mostrador asignado para mostrar los documentos de su vuelo cuatro horas antes de la salida.</li><li data-v-0b4cef36>El check in se cierra una hora y 30 minutos antes de la salida del vuelo.</li><li data-v-0b4cef36>Los artículos de valor, permanecerán bajo custodia del pasajero a bordo del avión. No somos responsables del traslado, daño o pérdida de los mismos.</li><li data-v-0b4cef36>No somos responsables por daño o pérdida de artículos de valor, tales como monedas, joyas, piedras preciosas, objetos de arte, documentos, acciones y certificados negociables, aparatos electrónicos, artículos de fotografía, video o por artículos de fácil descomposición; los cuales no se consideran como equipaje y son transportados sin conocimiento ni consentimiento de la Empresa. Todo reclamo referente a equipajes deberá formularse antes de abandonar el aeropuerto.</li><li data-v-0b4cef36>La documentación de artículos frágiles se realiza bajo riesgo del pasajero.</li><li data-v-0b4cef36>No se permite la transportación de ningún tipo de mascota, ni cajas de huevo.</li><li data-v-0b4cef36>En caso de transportar artículos como armas de fuego, equipos de pesca o de competencia, etc., tendrá que efectuar un procedimiento especial de documentación, por lo cual debe presentarse 3 horas antes de salida del vuelo, con los certificados correspondientes para su traslado y la identificación oficial del titular, para el llenado correspondiente y la autorización del departamento de la PFP en el aeropuerto.</li></ul><h3 data-v-0b4cef36>Renta de Autos en Destino Cuba</h3><p data-v-0b4cef36>Para la renta de autos, Iris Travel Group pone a su disposición un importante grupo de coches económicos y medios, con transmisión automática y manual. Las compañías solo confirman categorías y no modelos específicos de coches.</p><p data-v-0b4cef36>Las oficinas de renta operan solamente de 9 am a 6 pm excepto las situadas en los aeropuertos, y en La Habana en las oficinas del Vedado cita en Calle 3ra y Paseo, y en la oficina de Playa cita en Hotel Neptuno.</p><p data-v-0b4cef36>El punto de renta en que se confirmará su renta está sujeto a disponibilidad del transportista. En caso se diferir con el que usted reservó se le notificará oportunamente, de no estar usted de acuerdo puede cancelar su reserva sin gastos siempre que lo haga antes de pasadas 48 horas de haber recibido la información.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Para recoger el auto: </strong>Al recoger el coche Usted debe presentarles a los funcionarios de la rentadora:</p><ol class="list-decimal pl-10" data-v-0b4cef36><li data-v-0b4cef36>El voucher de confirmación de la agencia</li><li data-v-0b4cef36>Pasaporte.</li><li data-v-0b4cef36>Licencia de conducción válida para todos los conductores (las licencias de conducción deben ser válidas en todo el período de alquiler y tener más de un año de antigüedad)</li><li data-v-0b4cef36><p data-v-0b4cef36>Tarjeta de crédito para pago del seguro y depósito de garantía</p></li></ol><p data-v-0b4cef36>En caso de no poseer cualquiera de estos documentos, no se ejecutará el servicio y se considerará un No Show, aplicando la penalidad correspondiente.</p><p data-v-0b4cef36>Los pagos podrán realizarse con tarjetas en Moneda Libremente Convertible (MLC) y con tarjeta de pre-pago que puede ser adquirida en el Aeropuerto en Cuba, también pueden utilizarse tarjetas VISA o Mastercard, siempre que estas no sean de bancos estadounidenses o alguna de sus sucursales.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Política de cancelación:</strong><ul class="list-disc pl-10" data-v-0b4cef36><li data-v-0b4cef36>Si cancela la reserva al menos 7 días antes de la fecha de su llegada señalada, se le reembolsará la totalidad de la suma que pagó por la reservación.</li><li data-v-0b4cef36>Si cancela dentro de un plazo de entre 7 días y 72 horas antes de la fecha de su llegada, recibirá el monto de la reservación menos el precio de dos días de arrendamiento.</li><li data-v-0b4cef36>Si cancela en menos de 72 horas antes de la fecha le serán descontados tres días de la reserva.</li><li data-v-0b4cef36>Si liquida el auto antes de la fecha indicada al inicio de la renta no se le devolverá el importe correspondiente a los días no utilizados.</li></ul></p><p data-v-0b4cef36>Los reembolsos serán cargados a su tarjeta de crédito dentro de un plazo de 72 horas, después de haber recibido la cancelación.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Combustible: </strong>El coche es entregado con el depósito lleno de combustible y el cliente deberá pagar por adelantado el valor de dicho combustible. Si en el momento de recogida del coche el depósito de gasolina no está lleno, usted recibirá instrucciones del personal de la agencia de renta sobre cómo actuar. Los costos de combustibles deben ser pagados con tarjeta de crédito, usando siempre gasolina especial o diesel según corresponda. El cliente deberá devolver el coche con el depósito lo más vacío posible, puesto que la rentadora no reembolsará ningún dinero por el combustible sobrante.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Conductor adicional: </strong>Los conductores adicionales serán incluidos en el contrato en el momento de entrega del auto, con un cargo adicional a pagar directo en la rentadora, especificando el número de su licencia de conducción (vigente) y el del pasaporte. El seguro (Daños por Colisión del Vehículo) no cubrirá los perjuicios provocados por el conductor, de no cumplirse estos requisitos, aun en el caso que tuviese una licencia de conducción vigente.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Equipamiento adicional: </strong>Ofrecemos asientos para niños. Para garantizar la disponibilidad de un asiento para niños, usted deberá solicitarlo en el momento de la reservación.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Tarifa de retorno: </strong>Las compañías arrendadoras aplicarán cargos extras por concepto de devolución del vehículo en un lugar diferente al de donde se inició la renta. La tarifa dependerá de la distancia entre las ciudades.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Edad Mínima y Máxima: </strong> El arrendador exige que el cliente cumpla con los requisitos de edad mínima para poder alquilar un vehículo: <ul class="list-disc pl-10" data-v-0b4cef36><li data-v-0b4cef36>21 años: Skoda Fabia, Audi A3, A4, A6, VW Sharan y otros (y un mínimo de 3 años de experiencia).</li><li data-v-0b4cef36>30 años: Audi A4 cabriolet &amp; Audi TT.</li><li data-v-0b4cef36>La edad máxima establecida para rentar un auto es menor de 70 años.</li></ul></p><p data-v-0b4cef36><strong data-v-0b4cef36>Seguro: </strong>Existen dos modalidades de ventas: Con y Sin seguro.</p><p data-v-0b4cef36>El seguro CDW (contra daños debidos a la colisión del auto), reduce la responsabilidad del cliente en caso de accidente, siempre que no haya violado ningunas de las cláusulas del contrato, suscrito en el momento de alquilar el auto</p><p data-v-0b4cef36><strong data-v-0b4cef36>Licencia de Conducción: </strong>El cliente le presentará al arrendador, una licencia de conducción vigente, emitida al menos 6 meses antes del momento de suscribir el contrato. En caso de que la licencia de conducción, emitida en el país de origen del cliente, no estuviese redactada en inglés o español, el cliente deberá presentar una licencia de conducción internacional.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Tarifa de Aeropuerto: </strong>Todas las reservas confirmadas en los aeropuertos internacionales tendrán un suplemento de 20.00 USD, lo cual se pagará en el momento de la apertura del contrato de arrendamiento del auto.</p><p data-v-0b4cef36><strong data-v-0b4cef36>Devolución del vehículo: </strong> El cliente devolverá el auto en la fecha, hora, y la agencia acordada. En caso de un cambio, el cliente lo notificará al arrendador, y solicitará su aprobación antes de efectuar el cambio.<br data-v-0b4cef36> Además, el auto será devuelto en las mismas condiciones en que fue arrendado. De no ser así, el arrendador cargará al cliente por concepto de auto-riesgo, según lo acordado en el contrato de arrendamiento. </p><h3 data-v-0b4cef36>RECLAMACIONES</h3><p data-v-0b4cef36>Las reclamaciones se efectuarán a través del Comercial o del Representante de La Agencia. Las quejas que fundamenten una devolución o indemnización, deben realizarse por escrito antes de las 72 horas después de ocurrido el hecho, y antes de abandonar el cliente el país. En el caso de robos, extravíos de propiedades y otros daños personales similares, se requiere la denuncia a las autoridades policiales por parte del cliente. La Agencia y los proveedores, no se hacen responsables por equipajes y efectos personales olvidados en las unidades de transporte y/o Hoteles.</p></article></div></section>',1);function t(e,a,o,i,t,p){const u=(0,s.up)("searcher");return(0,s.wg)(),(0,s.iD)("div",null,[(0,s._)("section",d,[c,(0,s._)("span",r,(0,n.zw)(e.country),1),(0,s.Wm)(u)]),l])}var p=o(6351),u=o(3249),b={name:"PolicyComp",components:{Searcher:p.Z},data(){return{terms:""}},created(){u.Z.getText("terms").then((e=>this.terms=e))},methods:{}},m=o(89);const v=(0,m.Z)(b,[["render",t],["__scopeId","data-v-0b4cef36"]]);var f=v}}]);
-//# sourceMappingURL=terminos_politicas.c1cb5db9.js.map
+ntSet;
+  }
+  export type CommunicationBody = string;
+  export type CommunicationList = Communication[];
+  export interface CreateCaseRequest {
+    /**
+     * The title of the support case. The title appears in the Subject field on the Amazon Web Services Support Center Create Case page.
+     */
+    subject: Subject;
+    /**
+     * The code for the Amazon Web Services service. You can use the DescribeServices operation to get the possible serviceCode values.
+     */
+    serviceCode?: ServiceCode;
+    /**
+     * A value that indicates the urgency of the case. This value determines the response time according to your service level agreement with Amazon Web Services Support. You can use the DescribeSeverityLevels operation to get the possible values for severityCode.  For more information, see SeverityLevel and Choosing a Severity in the Amazon Web Services Support User Guide.  The availability of severity levels depends on the support plan for the Amazon Web Services account. 
+     */
+    severityCode?: SeverityCode;
+    /**
+     * The category of problem for the support case. You also use the DescribeServices operation to get the category code for a service. Each Amazon Web Services service defines its own set of category codes.
+     */
+    categoryCode?: CategoryCode;
+    /**
+     * The communication body text that describes the issue. This text appears in the Description field on the Amazon Web Services Support Center Create Case page.
+     */
+    communicationBody: CommunicationBody;
+    /**
+     * A list of email addresses that Amazon Web Services Support copies on case correspondence. Amazon Web Services Support identifies the account that creates the case when you specify your Amazon Web Services credentials in an HTTP POST method or use the Amazon Web Services SDKs. 
+     */
+    ccEmailAddresses?: CcEmailAddressList;
+    /**
+     * The language in which Amazon Web Services Support handles the case. Amazon Web Services Support currently supports English ("en") and Japanese ("ja"). You must specify the ISO 639-1 code for the language parameter if you want support in that language.
+     */
+    language?: Language;
+    /**
+     * The type of issue for the case. You can specify customer-service or technical. If you don't specify a value, the default is technical.
+     */
+    issueType?: IssueType;
+    /**
+     * The ID of a set of one or more attachments for the case. Create the set by using the AddAttachmentsToSet operation.
+     */
+    attachmentSetId?: AttachmentSetId;
+  }
+  export interface CreateCaseResponse {
+    /**
+     * The support case ID requested or returned in the call. The case ID is an alphanumeric string in the following format: case-12345678910-2013-c4c1d2bf33c5cf47 
+     */
+    caseId?: CaseId;
+  }
+  export type Data = Buffer|Uint8Array|Blob|string;
+  export interface DescribeAttachmentRequest {
+    /**
+     * The ID of the attachment to return. Attachment IDs are returned by the DescribeCommunications operation.
+     */
+    attachmentId: AttachmentId;
+  }
+  export interface DescribeAttachmentResponse {
+    /**
+     * This object includes the attachment content and file name. In the previous response syntax, the value for the data parameter appears as blob, which is represented as a base64-encoded string. The value for fileName is the name of the attachment, such as troubleshoot-screenshot.png.
+     */
+    attachment?: Attachment;
+  }
+  export interface DescribeCasesRequest {
+    /**
+     * A list of ID numbers of the support cases you want returned. The maximum number of cases is 100.
+     */
+    caseIdList?: CaseIdList;
+    /**
+     * The ID displayed for a case in the Amazon Web Services Support Center user interface.
+     */
+    displayId?: DisplayId;
+    /**
+     * The start date for a filtered date search on support case communications. Case communications are available for 12 months after creation.
+     */
+    afterTime?: AfterTime;
+    /**
+     * The end date for a filtered date search on support case communications. Case communications are available for 12 months after creation.
+     */
+    beforeTime?: BeforeTime;
+    /**
+     * Specifies whether to include resolved support cases in the DescribeCases response. By default, resolved cases aren't included.
+     */
+    includeResolvedCases?: IncludeResolvedCases;
+    /**
+     * A resumption point for pagination.
+     */
+    nextToken?: NextToken;
+    /**
+     * The maximum number of results to return before paginating.
+     */
+    maxResults?: MaxResults;
+    /**
+     * The language in which Amazon Web Services Support handles the case. Amazon Web Services Support currently supports English ("en") and Japanese ("ja"). You must specify the ISO 639-1 code for the language parameter if you want support in that language.
+     */
+    language?: Language;
+    /**
+     * Specifies whether to include communications in the DescribeCases response. By default, communications are included.
+     */
+    includeCommunications?: IncludeCommunications;
+  }
+  export interface DescribeCasesResponse {
+    /**
+     * The details for the cases that match the request.
+     */
+    cases?: CaseList;
+    /**
+     * A resumption point for pagination.
+     */
+    nextToken?: NextToken;
+  }
+  export interface DescribeCommunicationsRequest {
+    /**
+     * The support case ID requested or returned in the call. The case ID is an alphanumeric string formatted as shown in this example: case-12345678910-2013-c4c1d2bf33c5cf47 
+     */
+    caseId: CaseId;
+    /**
+     * The end date for a filtered date search on support case communications. Case communications are available for 12 months after creation.
+     */
+    beforeTime?: BeforeTime;
+    /**
+     * The start date for a filtered date search on support case communications. Case communications are available for 12 months after creation.
+     */
+    afterTime?: AfterTime;
+    /**
+     * A resumption point for pagination.
+     */
+    nextToken?: NextToken;
+    /**
+     * The maximum number of results to return before paginating.
+     */
+    maxResults?: MaxResults;
+  }
+  export interface DescribeCommunicationsResponse {
+    /**
+     * The communications for the case.
+     */
+    communications?: CommunicationList;
+    /**
+     * A resumption point for pagination.
+     */
+    nextToken?: NextToken;
+  }
+  export interface DescribeServicesRequest {
+    /**
+     * A JSON-formatted list of service codes available for Amazon Web Services services.
+     */
+    serviceCodeList?: ServiceCodeList;
+    /**
+     * The language in which Amazon Web Services Support handles the case. Amazon Web Services Support currently supports English ("en") and Japanese ("ja"). You must specify the ISO 639-1 code for the language parameter if you want support in that language.
+     */
+    language?: Language;
+  }
+  export interface DescribeServicesResponse {
+    /**
+     * A JSON-formatted list of Amazon Web Services services.
+     */
+    services?: ServiceList;
+  }
+  export interface DescribeSeverityLevelsRequest {
+    /**
+     * The language in which Amazon Web Services Support handles the case. Amazon Web Services Support currently supports English ("en") and Japanese ("ja"). You must specify the ISO 639-1 code for the language parameter if you want support in that language.
+     */
+    language?: Language;
+  }
+  export interface DescribeSeverityLevelsResponse {
+    /**
+     * The available severity levels for the support case. Available severity levels are defined by your service level agreement with Amazon Web Services.
+     */
+    severityLevels?: SeverityLevelsList;
+  }
+  export interface DescribeTrustedAdvisorCheckRefreshStatusesRequest {
+    /**
+     * The IDs of the Trusted Advisor checks to get the status.  If you specify the check ID of a check that is automatically refreshed, you might see an InvalidParameterValue error. 
+     */
+    checkIds: StringList;
+  }
+  export interface DescribeTrustedAdvisorCheckRefreshStatusesResponse {
+    /**
+     * The refresh status of the specified Trusted Advisor checks.
+     */
+    statuses: TrustedAdvisorCheckRefreshStatusList;
+  }
+  export interface DescribeTrustedAdvisorCheckResultRequest {
+    /**
+     * The unique identifier for the Trusted Advisor check.
+     */
+    checkId: String;
+    /**
+     * The ISO 639-1 code for the language that you want your check results to appear in. The Amazon Web Services Support API currently supports the following languages for Trusted Advisor:   Chinese, Simplified - zh    Chinese, Traditional - zh_TW    English - en    French - fr    German - de    Indonesian - id    Italian - it    Japanese - ja    Korean - ko    Portuguese, Brazilian - pt_BR    Spanish - es   
+     */
+    language?: String;
+  }
+  export interface DescribeTrustedAdvisorCheckResultResponse {
+    /**
+     * The detailed results of the Trusted Advisor check.
+     */
+    result?: TrustedAdvisorCheckResult;
+  }
+  export interface DescribeTrustedAdvisorCheckSummariesRequest {
+    /**
+     * The IDs of the Trusted Advisor checks.
+     */
+    checkIds: StringList;
+  }
+  export interface DescribeTrustedAdvisorCheckSummariesResponse {
+    /**
+     * The summary information for the requested Trusted Advisor checks.
+     */
+    summaries: TrustedAdvisorCheckSummaryList;
+  }
+  export interface DescribeTrustedAdvisorChecksRequest {
+    /**
+     * The ISO 639-1 code for the language that you want your checks to appear in. The Amazon Web Services Support API currently supports the following languages for Trusted Advisor:   Chinese, Simplified - zh    Chinese, Traditional - zh_TW    English - en    French - fr    German - de    Indonesian - id    Italian - it    Japanese - ja    Korean - ko    Portuguese, Brazilian - pt_BR    Spanish - es   
+     */
+    language: String;
+  }
+  export interface DescribeTrustedAdvisorChecksResponse {
+    /**
+     * Information about all available Trusted Advisor checks.
+     */
+    checks: TrustedAdvisorCheckList;
+  }
+  export type DisplayId = string;
+  export type Double = number;
+  export type ExpiryTime = string;
+  export type FileName = string;
+  export type IncludeCommunications = boolean;
+  export type IncludeResolvedCases = boolean;
+  export type IssueType = string;
+  export type Language = string;
+  export type Long = number;
+  export type MaxResults = number;
+  export type NextToken = string;
+  export interface RecentCaseCommunications {
+    /**
+     * The five most recent communications associated with the case.
+     */
+    communications?: CommunicationList;
+    /**
+     * A resumption point for pagination.
+     */
+    nextToken?: NextToken;
+  }
+  export interface RefreshTrustedAdvisorCheckRequest {
+    /**
+     * The unique identifier for the Trusted Advisor check to refresh.  Specifying the check ID of a check that is automatically refreshed causes an InvalidParameterValue error. 
+     */
+    checkId: String;
+  }
+  export interface RefreshTrustedAdvisorCheckResponse {
+    /**
+     * The current refresh status for a check, including the amount of time until the check is eligible for refresh.
+     */
+    status: TrustedAdvisorCheckRefreshStatus;
+  }
+  export interface ResolveCaseRequest {
+    /**
+     * The support case ID requested or returned in the call. The case ID is an alphanumeric string formatted as shown in this example: case-12345678910-2013-c4c1d2bf33c5cf47 
+     */
+    caseId?: CaseId;
+  }
+  export interface ResolveCaseResponse {
+    /**
+     * The status of the case when the ResolveCase request was sent.
+     */
+    initialCaseStatus?: CaseStatus;
+    /**
+     * The status of the case after the ResolveCase request was processed.
+     */
+    finalCaseStatus?: CaseStatus;
+  }
+  export type Result = boolean;
+  export interface Service {
+    /**
+     * The code for an Amazon Web Services service returned by the DescribeServices response. The name element contains the corresponding friendly name.
+     */
+    code?: ServiceCode;
+    /**
+     * The friendly name for an Amazon Web Services service. The code element contains the corresponding code.
+     */
+    name?: ServiceName;
+    /**
+     * A list of categories that describe the type of support issue a case describes. Categories consist of a category name and a category code. Category names and codes are passed to Amazon Web Services Support when you call CreateCase.
+     */
+    categories?: CategoryList;
+  }
+  export type ServiceCode = string;
+  export type ServiceCodeList = ServiceCode[];
+  export type ServiceList = Service[];
+  export type ServiceName = string;
+  export type SeverityCode = string;
+  export interface SeverityLevel {
+    /**
+     * The code for case severity level. Valid values: low | normal | high | urgent | critical 
+     */
+    code?: SeverityLevelCode;
+    /**
+     * The name of the severity level that corresponds to the severity level code.  The values returned by the API are different from the values that appear in the Amazon Web Services Support Center. For example, the API uses the code low, but the name appears as General guidance in Support Center.  The following are the API code names and how they appear in the console:    low - General guidance    normal - System impaired    high - Production system impaired    urgent - Production system down    critical - Business-critical system down    For more information, see Choosing a severity in the Amazon Web Services Support User Guide.
+     */
+    name?: SeverityLevelName;
+  }
+  export type SeverityLevelCode = string;
+  export type SeverityLevelName = string;
+  export type SeverityLevelsList = SeverityLevel[];
+  export type Status = string;
+  export type String = string;
+  export type StringList = String[];
+  export type Subject = string;
+  export type SubmittedBy = string;
+  export type TimeCreated = string;
+  export interface TrustedAdvisorCategorySpecificSummary {
+    /**
+     * The summary information about cost savings for a Trusted Advisor check that is in the Cost Optimizing category.
+     */
+    costOptimizing?: TrustedAdvisorCostOptimizingSummary;
+  }
+  export interface TrustedAdvisorCheckDescription {
+    /**
+     * The unique identifier for the Trusted Advisor check.
+     */
+    id: String;
+    /**
+     * The display name for the Trusted Advisor check.
+     */
+    name: String;
+    /**
+     * The description of the Trusted Advisor check, which includes the alert criteria and recommended operations (contains HTML markup).
+     */
+    description: String;
+    /**
+     * The category of the Trusted Advisor check.
+     */
+    category: String;
+    /**
+     * The column headings for the data returned by the Trusted Advisor check. The order of the headings corresponds to the order of the data in the Metadata element of the TrustedAdvisorResourceDetail for the check. Metadata contains all the data that is shown in the Excel download, even in those cases where the UI shows just summary data. 
+     */
+    metadata: StringList;
+  }
+  export type TrustedAdvisorCheckList = TrustedAdvisorCheckDescription[];
+  export interface TrustedAdvisorCheckRefreshStatus {
+    /**
+     * The unique identifier for the Trusted Advisor check.
+     */
+    checkId: String;
+    /**
+     * The status of the Trusted Advisor check for which a refresh has been requested:     none - The check is not refreshed or the non-success status exceeds the timeout    enqueued - The check refresh requests has entered the refresh queue    processing - The check refresh request is picked up by the rule processing engine    success - The check is successfully refreshed    abandoned - The check refresh has failed  
+     */
+    status: String;
+    /**
+     * The amount of time, in milliseconds, until the Trusted Advisor check is eligible for refresh.
+     */
+    millisUntilNextRefreshable: Long;
+  }
+  export type TrustedAdvisorCheckRefreshStatusList = TrustedAdvisorCheckRefreshStatus[];
+  export interface TrustedAdvisorCheckResult {
+    /**
+     * The unique identifier for the Trusted Advisor check.
+     */
+    checkId: String;
+    /**
+     * The time of the last refresh of the check.
+     */
+    timestamp: String;
+    /**
+     * The alert status of the check: "ok" (green), "warning" (yellow), "error" (red), or "not_available".
+     */
+    status: String;
+    resourcesSummary: TrustedAdvisorResourcesSummary;
+    /**
+     * Summary information that relates to the category of the check. Cost Optimizing is the only category that is currently supported.
+     */
+    categorySpecificSummary: TrustedAdvisorCategorySpecificSummary;
+    /**
+     * The details about each resource listed in the check result.
+     */
+    flaggedResources: TrustedAdvisorResourceDetailList;
+  }
+  export interface TrustedAdvisorCheckSummary {
+    /**
+     * The unique identifier for the Trusted Advisor check.
+     */
+    checkId: String;
+    /**
+     * The time of the last refresh of the check.
+     */
+    timestamp: String;
+    /**
+     * The alert status of the check: "ok" (green), "warning" (yellow), "error" (red), or "not_available".
+     */
+    status: String;
+    /**
+     * Specifies whether the Trusted Advisor check has flagged resources.
+     */
+    hasFlaggedResources?: Boolean;
+    resourcesSummary: TrustedAdvisorResourcesSummary;
+    /**
+     * Summary information that relates to the category of the check. Cost Optimizing is the only category that is currently supported.
+     */
+    categorySpecificSummary: TrustedAdvisorCategorySpecificSummary;
+  }
+  export type TrustedAdvisorCheckSummaryList = TrustedAdvisorCheckSummary[];
+  export interface TrustedAdvisorCostOptimizingSummary {
+    /**
+     * The estimated monthly savings that might be realized if the recommended operations are taken.
+     */
+    estimatedMonthlySavings: Double;
+    /**
+     * The estimated percentage of savings that might be realized if the recommended operations are taken.
+     */
+    estimatedPercentMonthlySavings: Double;
+  }
+  export interface TrustedAdvisorResourceDetail {
+    /**
+     * The status code for the resource identified in the Trusted Advisor check.
+     */
+    status: String;
+    /**
+     * The Amazon Web Services Region in which

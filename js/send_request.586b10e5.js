@@ -1,2 +1,442 @@
-"use strict";(self["webpackChunkiristravel_v3"]=self["webpackChunkiristravel_v3"]||[]).push([[957],{3331:function(e,t,a){a.r(t),a.d(t,{default:function(){return Ae}});var s=a(3396),o=a(7139),l=a(9242);const r={class:"bg-white"},i={class:"text-white bg-white"},n={class:"flex flex-col pb-12 gap-y-6 bg-blue_1"},c=(0,s._)("h2",{class:"pt-6 text-3xl text-white md:text-6xl lg:text-4xl"},"- Enviar solicitud de reserva -",-1),u={class:"text-5xl font-Clarissa"},d={class:"container p-5 mx-auto border-2 border-white"},p={class:"flex flex-col flex-wrap justify-between flex-1 px-10 py-8 text-xl gap-x-3 gap-y-6 shadow-round bg-dark_blue_1 md:flex-row"},m={class:"flex items-center w-full gap-3"},f=(0,s._)("i",{class:"fas fa-check"},null,-1),h=[f],_={class:"flex flex-col w-full gap-3 md:flex-row"},x={class:"p-2 px-4 text-left bg-green-500 md:w-3/5"},g=["disabled"];function b(e,t,a,f,b,w){const k=(0,s.up)("general-request"),y=(0,s.up)("router-link");return(0,s.wg)(),(0,s.iD)("div",r,[(0,s._)("section",i,[(0,s._)("div",n,[c,(0,s._)("span",u,(0,o.zw)(a.title),1),(0,s._)("div",d,[(0,s.Wm)(k,{request:b.request_info,onUpdInfo:w.updRequest},null,8,["request","onUpdInfo"]),(0,s._)("form",p,[(0,s.wy)((0,s._)("input",{type:"text",placeholder:"Nombre completo*","onUpdate:modelValue":t[0]||(t[0]=e=>b.name=e),min:"0",class:"w-full px-6 py-2 text-left border text-orange_1 bg-dark_blue_1 md:w-1/2"},null,512),[[l.nr,b.name]]),(0,s.wy)((0,s._)("input",{type:"text",placeholder:"Teléfono*","onUpdate:modelValue":t[1]||(t[1]=e=>b.phone=e),min:"0",class:"w-full px-6 py-2 text-left border text-orange_1 bg-dark_blue_1 md:w-1/5"},null,512),[[l.nr,b.phone]]),(0,s.wy)((0,s._)("input",{type:"email",placeholder:"Email*","onUpdate:modelValue":t[2]||(t[2]=e=>b.email=e),required:"",min:"0",class:"w-full px-6 py-2 text-left border text-orange_1 bg-dark_blue_1 md:w-1/4"},null,512),[[l.nr,b.email]]),(0,s.wy)((0,s._)("textarea",{id:"",placeholder:"Descripcion de su solicitud","onUpdate:modelValue":t[3]||(t[3]=e=>b.message=e),class:"w-full h-40 px-8 py-6 text-left border text-orange_1 bg-dark_blue_1"},null,512),[[l.nr,b.message]]),(0,s._)("div",m,[(0,s._)("span",{class:(0,o.C_)(["items-center inline px-2 py-1 border cursor-pointer bg-dark_blue_1",w.isActiveTerm]),onClick:t[4]||(t[4]=e=>b.activeTerm=!b.activeTerm)},h,2),(0,s._)("label",{class:"self-center text-orange_1",onClick:t[5]||(t[5]=e=>b.activeTerm=!b.activeTerm)},[(0,s.Uk)("He leido y acepto los "),(0,s.Wm)(y,{class:"text-light_blue_1",to:{name:"TermsAndPolicy"},target:"_blank"},{default:(0,s.w5)((()=>[(0,s.Uk)("Términos y condiciones")])),_:1})])]),(0,s._)("div",_,[(0,s.wy)((0,s._)("span",{class:"p-2 px-4 text-left bg-red md:w-3/5"},(0,o.zw)(b.error_message),513),[[l.F8,b.error]]),(0,s.wy)((0,s._)("span",x,"La solicitud fue enviada exitosamente!!!",512),[[l.F8,b.success]]),(0,s._)("button",{type:"button",class:"px-12 py-1 text-base text-white uppercase border md:text-xl bg-orange_1 border-orange_1 md:ml-auto hover:bg-dark_blue_1 hover:text-orange_1",onClick:t[6]||(t[6]=(...e)=>w.formSubmit&&w.formSubmit(...e)),disabled:b.buttonDisabled},"Enviar Solicitud",8,g)])])])])])])}a(7658);const w={class:"flex flex-col gap-4 px-10 py-4 mb-6 text-xl shadow-round bg-dark_blue_1"},k={class:"flex flex-col gap-3 text-xl md:flex-row"},y=(0,s._)("h2",{class:"text-left md:w-1/12"},"Destino: ",-1),v={class:"px-4 text-left border-b md:w-2/5 capitalize"},q={class:"flex gap-3 text-xl"},D=(0,s._)("h2",{class:"text-left md:w-1/12"},"Producto: ",-1),R={class:"px-4 text-left border-b md:w-2/5 capitalize"};function z(e,t,a,l,r,i){return(0,s.wg)(),(0,s.iD)("div",w,[(0,s._)("div",k,[y,(0,s._)("span",v,(0,o.zw)(a.request.destination),1)]),(0,s._)("div",q,[D,(0,s._)("span",R,(0,o.zw)(a.request.product),1)]),((0,s.wg)(),(0,s.j4)((0,s.LL)(r.components[a.request.type]),{info:a.request,onUpdInfo:i.updRequest},null,40,["info","onUpdInfo"]))])}const C={class:"flex flex-col items-center gap-3 p-4 border md:flex-row md:w-2/4"},U={key:0,class:"flex w-4/12 gap-3"},P=(0,s._)("h2",null,"Cantidad: ",-1),Y={key:2,class:"ml-6"},H={key:3,class:"text-3xl font-bold text-orange_1"};function S(e,t,a,r,i,n){const c=(0,s.up)("Datepicker");return(0,s.wg)(),(0,s.iD)("div",C,[n.isProduct("Remesas")?((0,s.wg)(),(0,s.iD)("div",U,[P,(0,s.wy)((0,s._)("input",{class:"w-2/4 p-1 px-2 text-blue_1",type:"text","onUpdate:modelValue":t[0]||(t[0]=e=>i.inputVal=e)},null,512),[[l.nr,i.inputVal]])])):(0,s.kq)("",!0),n.isProduct("Carros")||n.isProduct("Hoteles")?((0,s.wg)(),(0,s.j4)(c,{key:1,class:"datepicker-container clear",modelValue:i.dateRange,"onUpdate:modelValue":t[1]||(t[1]=e=>i.dateRange=e),format:"dd/MM/yyyy",range:"","multi-calendars":"","auto-apply":"","enable-time-picker":!1,"close-on-auto-apply":!0,placeholder:n.placeholder,onChange:n.handleDate},null,8,["modelValue","placeholder","onChange"])):(0,s.kq)("",!0),n.isProduct("Hoteles")?(0,s.kq)("",!0):((0,s.wg)(),(0,s.iD)("h2",Y,(0,o.zw)(n.isProduct("Remesas")?"Precio a pagar:":"Precio desde:"),1)),n.isProduct("Hoteles")?(0,s.kq)("",!0):((0,s.wg)(),(0,s.iD)("span",H,"$"+(0,o.zw)(n.calcPrice),1))])}var $=a(9024),T=a(6797),V=a.n(T),M={name:"HomeRequest",props:{info:{required:!0}},components:{Datepicker:$.Z},data(){return{dateRange:{},margin:0,price:0,inputVal:100,prod:{}}},created(){this.margin=this.info.price,this.prod=this.info},watch:{price(){this.updRequest()},dateRange(){this.updRequest()}},computed:{calcPrice(){let e=this.info.price;return e=this.inputVal*this.margin/100,e},placeholder(){let e;return this.isProduct("Hoteles")?e="Fecha de entrada y salida":this.isProduct("Carros")&&(e="Fecha de recogida y entrega"),e}},methods:{handleDate(e){this.dateRange.startDate=V()(e[0].toString()).format("DD-MM-YYYY"),this.dateRange.endDate=V()(e[1].toString()).format("DD-MM-YYYY")},isProduct(e){return this.info.product==e&&(this.updRequest(),!0)},updRequest(){this.price=this.calcPrice,this.price>0&&this.$emit("updInfo",{date:`${this.dateRange.startDate} - ${this.dateRange.endDate}`,initprice:this.inputVal,price:this.price})}}},I=a(89);const E=(0,I.Z)(M,[["render",S]]);var Z=E;const F={class:"flex flex-col flex-wrap shadow-round bg-dark_blue_1 text-xl px-3 md:px-10 py-4 mb-6 md:flex-row"},j={class:"flex flex-col gap-3 items-start md:w-3/12"},N={class:"capitalize"},B=(0,s._)("b",null,"Pais: ",-1),L={key:0},A=(0,s._)("b",null,"Polo: ",-1),O={key:1,class:"capitalize"},W=(0,s._)("b",null,"Producto:",-1),G={class:"flex flex-col gap-3 items-start py-3 px-8 border my-2 md:w-9/12 md:m-0"},J={class:"flex gap-x-3 flex-col md:flex-row"},K={key:0,class:"capitalize"},Q={key:1,class:"text-base self-center"},X={key:0,class:"flex flex-col w-full gap-x-3 gap-y-6 md:flex-row"},ee=(0,s._)("div",{class:"flex flex-col gap-y-1 items-start md:w-5/12"},[(0,s._)("small",{class:"text ml-3"},"Fecha")],-1),te={key:1,class:"flex flex-col text-left w-full gap-y-2"},ae={class:"flex gap-x-4 text-base pb-2"},se=(0,s._)("b",null,"Plan:",-1),oe={class:"flex gap-x-4 text-base pb-2"},le=(0,s._)("b",null,"Habitaciones:",-1),re=(0,s._)("b",null,"Noches:",-1),ie=(0,s._)("b",null,"Personas:",-1),ne={key:2,class:"self-end text-2xl font-bold ml-auto"},ce={class:"text-orange_1"};function ue(e,t,a,l,r,i){const n=(0,s.up)("number-imput");return(0,s.wg)(),(0,s.iD)("div",F,[(0,s._)("div",j,[(0,s._)("span",N,[B,(0,s.Uk)(" "+(0,o.zw)(a.info.country),1)]),a.info.pole?((0,s.wg)(),(0,s.iD)("span",L,[A,(0,s.Uk)(" "+(0,o.zw)(a.info.pole),1)])):(0,s.kq)("",!0),""!=a.info.product?((0,s.wg)(),(0,s.iD)("span",O,[W,(0,s.Uk)(" "+(0,o.zw)(a.info.product),1)])):(0,s.kq)("",!0)]),(0,s._)("div",G,[(0,s._)("div",J,[i.ishotel?((0,s.wg)(),(0,s.iD)("b",K,(0,o.zw)(a.info.product_name),1)):(0,s.kq)("",!0),i.ishotel?((0,s.wg)(),(0,s.iD)("span",Q,"("+(0,o.zw)(i.formatDate)+")",1)):(0,s.kq)("",!0)]),a.info.is_home_request?((0,s.wg)(),(0,s.iD)("div",X,[ee,"Hoteles"==a.info.product?((0,s.wg)(),(0,s.j4)(n,{key:0,class:"md:w-4/12",title:"Cantidad de personas",min:1,value:a.info.num_person,id:1,onUpdVal:e.updPerson},null,8,["value","onUpdVal"])):(0,s.kq)("",!0)])):(0,s.kq)("",!0),i.ishotel?((0,s.wg)(),(0,s.iD)("article",te,[(0,s._)("section",ae,[(0,s._)("span",null,[se,(0,s.Uk)(" "+(0,o.zw)(a.info.category),1)])]),(0,s._)("section",oe,[(0,s._)("span",null,[le,(0,s.Uk)(" "+(0,o.zw)(a.info.num_rooms),1)]),(0,s._)("span",null,[re,(0,s.Uk)(" "+(0,o.zw)(i.numNights),1)]),(0,s._)("span",null,[ie,(0,s.Uk)(" "+(0,o.zw)(a.info.num_person),1)])]),((0,s.wg)(!0),(0,s.iD)(s.HY,null,(0,s.Ko)(a.info.rooms,((e,t)=>((0,s.wg)(),(0,s.iD)("section",{class:"flex gap-x-3 text-base",key:t},[(0,s._)("span",null,(0,o.zw)(e.type)+":",1),(0,s._)("span",null,(0,o.zw)(e.comb),1)])))),128))])):(0,s.kq)("",!0),a.info.price>0?((0,s.wg)(),(0,s.iD)("span",ne,[(0,s.Uk)("Precio total:"),(0,s._)("span",ce," $"+(0,o.zw)(a.info.price),1)])):(0,s.kq)("",!0)])])}var de={name:"HotelRequest",props:{info:{default:{}}},data(){return{rooms:["Simple","Doble","Triple"],dateRange:null,num_nights:1,request_info:{type:"home",handler:{}}}},computed:{ishotel(){return"hotel"==this.info.type},persons(){const e="hotel"==this.info.product?this.info.num_person:e;return e},formatDate(){const e=this.info.date.split("/");let t;return t=e.length>1?e[0]+" - "+e[1]:V()(e[0]).format("DD/MM/YYYY"),t},numNights(){const e=this.info.date.split("/");let t,a,s=1;return e.length>1&&(t=V()(e[0],"DD/MM/YYYY"),a=V()(e[1],"DD/MM/YYYY"),s=a.diff(t,"days")),s}}};const pe=(0,I.Z)(de,[["render",ue]]);var me=pe;const fe=e=>((0,s.dD)("data-v-0bf25521"),e=e(),(0,s.Cn)(),e),he={class:"flex flex-col flex-wrap shadow-round bg-dark_blue_1 text-xl px-3 md:px-10 py-4 mb-6 md:flex-row"},_e={class:"flex flex-col gap-3 items-start md:w-3/12"},xe={class:"capitalize"},ge=fe((()=>(0,s._)("b",null,"Pais: ",-1))),be={key:0},we=fe((()=>(0,s._)("b",null,"Polo: ",-1))),ke={key:1,class:"capitalize"},ye=fe((()=>(0,s._)("b",null,"Producto:",-1))),ve={class:"flex flex-col gap-3 items-start py-3 px-8 border my-2 md:w-9/12 md:m-0"},qe={class:"flex bg-white text-gray-700 w-1/3"},De={class:"flex flex-col text-left w-full gap-y-2"},Re={class:"flex gap-x-4 text-base pb-2"},ze=fe((()=>(0,s._)("b",null,"Fecha: ",-1))),Ce={class:"flex gap-x-4 text-base pb-2"},Ue=fe((()=>(0,s._)("b",null,"Auto:",-1))),Pe={class:"flex gap-x-4 text-base pb-2"},Ye=fe((()=>(0,s._)("b",null,"Motor:",-1))),He={key:0,class:"self-end text-2xl font-bold ml-auto"},Se={class:"text-orange_1"};function $e(e,t,a,l,r,i){const n=(0,s.up)("Multiselect");return(0,s.wg)(),(0,s.iD)("div",he,[(0,s._)("div",_e,[(0,s._)("span",xe,[ge,(0,s.Uk)(" "+(0,o.zw)(a.info.country),1)]),a.info.pole?((0,s.wg)(),(0,s.iD)("span",be,[we,(0,s.Uk)(" "+(0,o.zw)(a.info.pole),1)])):(0,s.kq)("",!0),""!=a.info.product?((0,s.wg)(),(0,s.iD)("span",ke,[ye,(0,s.Uk)(" "+(0,o.zw)(a.info.product),1)])):(0,s.kq)("",!0)]),(0,s._)("div",ve,[(0,s._)("div",qe,[(0,s.Wm)(n,{mode:"single",modelValue:r.car_pickup_place,"onUpdate:modelValue":t[0]||(t[0]=e=>r.car_pickup_place=e),searchable:!0,options:r.car_pickup_places,classes:r.select_style_opt,placeholder:"Seleccione Lugar *",onChange:i.updInfo},null,8,["modelValue","options","classes","onChange"])]),(0,s._)("div",null,[(0,s._)("article",De,[(0,s._)("section",Re,[(0,s._)("span",null,[ze,(0,s.Uk)(" ("+(0,o.zw)(a.info.date)+") ",1)])]),(0,s._)("section",Ce,[(0,s._)("span",null,[Ue,(0,s.Uk)(" "+(0,o.zw)(a.info.car_category.alias),1)])]),(0,s._)("section",Pe,[(0,s._)("span",null,[Ye,(0,s.Uk)(" "+(0,o.zw)(a.info.car_engine.alias),1)])])])]),a.info.price>0?((0,s.wg)(),(0,s.iD)("span",He,[(0,s.Uk)("Precio total:"),(0,s._)("span",Se," $"+(0,o.zw)(a.info.price),1)])):(0,s.kq)("",!0)])])}var Te=a(9810),Ve=a(5607),Me={name:"CarRequest",components:{Multiselect:Te.Z},props:{info:{default:{}}},data(){return{formattedDate:"",dateRange:null,car_pickup_places:[],car_pickup_place:"",request_info:{type:"car",handler:{}},select_style_opt:{container:"relative mx-auto w-full flex items-center justify-end box-border cursor-pointer border border-white bg-dark_blue_1 text-base leading-snug outline-none",search:"w-full absolute inset-0 outline-none focus:ring-0 appearance-none box-border border-8 border-transparent text-base font-sans bg-dark_blue_1 pl-2 rtl:pl-0 rtl:pr-3.5",placeholder:"flex items-center w-full h-full absolute left-0 top-0 pointer-events-none bg-transparent leading-snug pl-3.5 text-white rtl:left-auto rtl:right-0 rtl:pl-0 rtl:pr-3.5",optionSelected:"text-white bg-light_gray_1"}}},async created(){this.car_pickup_places=await Ve.Z.getPlaces()},computed:{getCar(){if(this.info.car_category||this.info.car_engine)return{car_category:this.info.car_category,car_engine:this.info.car_engine}}},methods:{updInfo(){this.$nextTick((()=>{this.$emit("updInfo",{car_pickup_place_id:this.car_pickup_place})}))}}};const Ie=(0,I.Z)(Me,[["render",$e],["__scopeId","data-v-0bf25521"]]);var Ee=Ie,Ze={name:"GeneralRequest",props:{request:{required:!0}},components:{HomeRequest:Z,HotelRequest:me,CarRequest:Ee},data(){return{components:{home:"HomeRequest",hotel:"HotelRequest",car:"CarRequest"}}},methods:{updRequest(e){const t={destination:this.request.destination,product:this.request.product,is_hotel:"hotel"===this.request.type,...e};this.$emit("updInfo",t)}}};const Fe=(0,I.Z)(Ze,[["render",z]]);var je=Fe,Ne=a(809),Be={name:"ContactoComp",props:{title:{require:!1,default:"Solicitud"}},components:{GeneralRequest:je},data(){return{activeTerm:!1,is_hotel:!0,success:!1,error_message:"Error. No se pudo enviar la solicitud!!!",error:!1,request_info:{type:"home"},name:"",phone:"",email:"",message:"",subject:"",msg_info:{},buttonDisabled:!1}},beforeMount(){const e=localStorage.getItem("request_info");e?(this.request_info=e&&JSON.parse(e),void 0!=this.request_info&&(this.subject=this.request_info.product)):this.$router.push({name:"Home"})},unmounted(){localStorage.removeItem("request_info")},watch:{dateRange(e){this.request.date=e.startDate}},computed:{isActiveTerm(){return this.activeTerm?"text-orange_1":"text-dark_blue_1"}},methods:{updPerson(e){this.request.num_person=e.val},async formSubmit(){if(this.buttonDisabled=!0,this.error=!1,this.validateForm(),this.error)return void(this.buttonDisabled=!1);let e=JSON.parse(localStorage.getItem("request_info"));if("hotel"===e.type&&this.sendRequestHotel(e),"car"===e.type){if(this.validateCar(),this.error)return void(this.buttonDisabled=!1);this.sendRequestCar(e)}this.buttonDisabled=!1},validateForm(){if(""===this.name||""===this.phone){this.error=!0;let e="Debe llenar los datos antes de enviar la solicitud.";return this.$swal({title:"Error",text:e,icon:"error",confirmButtonColor:"#3085d6"}),void(this.buttonDisabled=!1)}if(!this.activeTerm){this.error=!0;let e="Debe aceptar términos antes de enviar la solicitud.";return this.$swal({title:"Error",text:e,icon:"error",confirmButtonColor:"#3085d6"}),void(this.buttonDisabled=!1)}if(!this.validEmail(this.email)){this.error=!0;let e="Debe insertar una dirección de correo válida.";return this.$swal({title:"Error",text:e,icon:"error",confirmButtonColor:"#3085d6"}),void(this.buttonDisabled=!1)}},async sendRequestCar(e){console.log(e);const t={name:this.name,phone:this.phone,email:this.email,description:this.message,destination:e.destination,product:e.product,date_start:e.date_start,date_out:e.date_out,car_category:e.car_category,car_engine:e.car_engine,car_pickup_places:e.car_pickup_places,price:e.price,prod:e.prod};console.log(t),await Ne.Z.checkLogin("/booking/create",{data:t,auth:"bearer"},"post")?(localStorage.removeItem("request_info"),this.success=!0,this.$swal({title:"Success",text:"Operación se exitosa",icon:"success",confirmButtonColor:"#3085d6"}),setTimeout((()=>{this.$router.push({name:"Home"})}),3e3)):(this.error=!0,this.buttonDisabled=!1,setTimeout((()=>{this.error=!1}),8e3))},async sendRequestHotel(e){const t={name:this.name,phone:this.phone,email:this.email,description:this.message,destination:e.destination,product:e.product,date_start:e.date_start,date_out:e.date_out,num_nights:e.num_nights,price:e.price,prod:e.prod};await Ne.Z.checkLogin("/booking/create",{data:t,auth:"bearer"},"post")?(localStorage.removeItem("request_info"),this.success=!0,this.$swal({title:"Success",text:"Operación se exitosa",icon:"success",confirmButtonColor:"#3085d6"}),setTimeout((()=>{this.$router.push({name:"Home"})}),3e3)):(this.error=!0,this.buttonDisabled=!1,setTimeout((()=>{this.error=!1}),8e3))},validEmail(e){return!(!e||!e.match(/^[\w-.]+@([\w-]+\.)+[\w-]{2,8}$/))},validateCar(){if(this.msg_info.car_pickup_place_id)return!0;this.error=!0,this.$swal({title:"Error de validación",text:"Falta seleccionar el lugar!!!",icon:"error",confirmButtonColor:"#3085d6"})},updRequest(e){this.msg_info=e}}};const Le=(0,I.Z)(Be,[["render",b]]);var Ae=Le}}]);
-//# sourceMappingURL=send_request.586b10e5.js.map
+'use strict'
+
+const { AsyncResource } = require('async_hooks')
+let lru = require('tiny-lru')
+// Needed to handle Webpack and faux modules
+// See https://github.com/fastify/fastify/issues/2356
+// and https://github.com/fastify/fastify/discussions/2907.
+lru = typeof lru === 'function' ? lru : lru.default
+const { safeParse: safeParseContentType, defaultContentType } = require('fast-content-type-parse')
+
+const secureJson = require('secure-json-parse')
+const {
+  kDefaultJsonParse,
+  kContentTypeParser,
+  kBodyLimit,
+  kRequestPayloadStream,
+  kState,
+  kTestInternals
+} = require('./symbols')
+
+const {
+  FST_ERR_CTP_INVALID_TYPE,
+  FST_ERR_CTP_EMPTY_TYPE,
+  FST_ERR_CTP_ALREADY_PRESENT,
+  FST_ERR_CTP_INVALID_HANDLER,
+  FST_ERR_CTP_INVALID_PARSE_TYPE,
+  FST_ERR_CTP_BODY_TOO_LARGE,
+  FST_ERR_CTP_INVALID_MEDIA_TYPE,
+  FST_ERR_CTP_INVALID_CONTENT_LENGTH,
+  FST_ERR_CTP_EMPTY_JSON_BODY
+} = require('./errors')
+const warning = require('./warnings')
+
+function ContentTypeParser (bodyLimit, onProtoPoisoning, onConstructorPoisoning) {
+  this[kDefaultJsonParse] = getDefaultJsonParser(onProtoPoisoning, onConstructorPoisoning)
+  // using a map instead of a plain object to avoid prototype hijack attacks
+  this.customParsers = new Map()
+  this.customParsers.set('application/json', new Parser(true, false, bodyLimit, this[kDefaultJsonParse]))
+  this.customParsers.set('text/plain', new Parser(true, false, bodyLimit, defaultPlainTextParser))
+  this.parserList = [new ParserListItem('application/json'), new ParserListItem('text/plain')]
+  this.parserRegExpList = []
+  this.cache = lru(100)
+}
+
+ContentTypeParser.prototype.add = function (contentType, opts, parserFn) {
+  const contentTypeIsString = typeof contentType === 'string'
+
+  if (!contentTypeIsString && !(contentType instanceof RegExp)) throw new FST_ERR_CTP_INVALID_TYPE()
+  if (contentTypeIsString && contentType.length === 0) throw new FST_ERR_CTP_EMPTY_TYPE()
+  if (typeof parserFn !== 'function') throw new FST_ERR_CTP_INVALID_HANDLER()
+
+  if (this.existingParser(contentType)) {
+    throw new FST_ERR_CTP_ALREADY_PRESENT(contentType)
+  }
+
+  if (opts.parseAs !== undefined) {
+    if (opts.parseAs !== 'string' && opts.parseAs !== 'buffer') {
+      throw new FST_ERR_CTP_INVALID_PARSE_TYPE(opts.parseAs)
+    }
+  }
+
+  const parser = new Parser(
+    opts.parseAs === 'string',
+    opts.parseAs === 'buffer',
+    opts.bodyLimit,
+    parserFn
+  )
+
+  if (contentTypeIsString && contentType === '*') {
+    this.customParsers.set('', parser)
+  } else {
+    if (contentTypeIsString) {
+      this.parserList.unshift(new ParserListItem(contentType))
+    } else {
+      contentType.isEssence = contentType.source.indexOf(';') === -1
+      this.parserRegExpList.unshift(contentType)
+    }
+    this.customParsers.set(contentType.toString(), parser)
+  }
+}
+
+ContentTypeParser.prototype.hasParser = function (contentType) {
+  return this.customParsers.has(typeof contentType === 'string' ? contentType : contentType.toString())
+}
+
+ContentTypeParser.prototype.existingParser = function (contentType) {
+  if (contentType === 'application/json' && this.customParsers.has(contentType)) {
+    return this.customParsers.get(contentType).fn !== this[kDefaultJsonParse]
+  }
+  if (contentType === 'text/plain' && this.customParsers.has(contentType)) {
+    return this.customParsers.get(contentType).fn !== defaultPlainTextParser
+  }
+
+  return this.hasParser(contentType)
+}
+
+ContentTypeParser.prototype.getParser = function (contentType) {
+  if (this.hasParser(contentType)) {
+    return this.customParsers.get(contentType)
+  }
+
+  const parser = this.cache.get(contentType)
+  // TODO not covered by tests, this is a security backport
+  /* istanbul ignore next */
+  if (parser !== undefined) return parser
+
+  const parsed = safeParseContentType(contentType)
+
+  // dummyContentType always the same object
+  // we can use === for the comparsion and return early
+  if (parsed === defaultContentType) {
+    return this.customParsers.get('')
+  }
+
+  // eslint-disable-next-line no-var
+  for (var i = 0; i !== this.parserList.length; ++i) {
+    const parserListItem = this.parserList[i]
+    if (compareContentType(parsed, parserListItem)) {
+      const parser = this.customParsers.get(parserListItem.name)
+      // we set request content-type in cache to reduce parsing of MIME type
+      this.cache.set(contentType, parser)
+      return parser
+    }
+  }
+
+  // eslint-disable-next-line no-var
+  for (var j = 0; j !== this.parserRegExpList.length; ++j) {
+    const parserRegExp = this.parserRegExpList[j]
+    if (compareRegExpContentType(contentType, parsed.type, parserRegExp)) {
+      const parser = this.customParsers.get(parserRegExp.toString())
+      // we set request content-type in cache to reduce parsing of MIME type
+      this.cache.set(contentType, parser)
+      return parser
+    }
+  }
+
+  return this.customParsers.get('')
+}
+
+ContentTypeParser.prototype.removeAll = function () {
+  this.customParsers = new Map()
+  this.parserRegExpList = []
+  this.parserList = []
+  this.cache = lru(100)
+}
+
+ContentTypeParser.prototype.remove = function (contentType) {
+  if (!(typeof contentType === 'string' || contentType instanceof RegExp)) throw new FST_ERR_CTP_INVALID_TYPE()
+
+  this.customParsers.delete(contentType.toString())
+
+  const parsers = typeof contentType === 'string' ? this.parserList : this.parserRegExpList
+
+  const idx = parsers.findIndex(ct => ct.toString() === contentType.toString())
+
+  if (idx > -1) {
+    parsers.splice(idx, 1)
+  }
+}
+
+ContentTypeParser.prototype.run = function (contentType, handler, request, reply) {
+  const parser = this.cache.get(contentType) || this.getParser(contentType)
+  const resource = new AsyncResource('content-type-parser:run', request)
+
+  if (parser === undefined) {
+    reply.send(new FST_ERR_CTP_INVALID_MEDIA_TYPE(contentType))
+  } else if (parser.asString === true || parser.asBuffer === true) {
+    rawBody(
+      request,
+      reply,
+      reply.context._parserOptions,
+      parser,
+      done
+    )
+  } else {
+    let result
+
+    if (parser.isDeprecatedSignature) {
+      result = parser.fn(request[kRequestPayloadStream], done)
+    } else {
+      result = parser.fn(request, request[kRequestPayloadStream], done)
+    }
+
+    if (result && typeof result.then === 'function') {
+      result.then(body => done(null, body), done)
+    }
+  }
+
+  function done (error, body) {
+    // We cannot use resource.bind() because it is broken in node v12.
+    resource.runInAsyncScope(() => {
+      if (error) {
+        reply.send(error)
+      } else {
+        request.body = body
+        handler(request, reply)
+      }
+    })
+  }
+}
+
+function rawBody (request, reply, options, parser, done) {
+  const asString = parser.asString
+  const limit = options.limit === null ? parser.bodyLimit : options.limit
+  const contentLength = request.headers['content-length'] === undefined
+    ? NaN
+    : Number.parseInt(request.headers['content-length'], 10)
+
+  if (contentLength > limit) {
+    reply.send(new FST_ERR_CTP_BODY_TOO_LARGE())
+    return
+  }
+
+  let receivedLength = 0
+  let body = asString === true ? '' : []
+
+  const payload = request[kRequestPayloadStream] || request.raw
+
+  if (asString === true) {
+    payload.setEncoding('utf8')
+  }
+
+  payload.on('data', onData)
+  payload.on('end', onEnd)
+  payload.on('error', onEnd)
+  payload.resume()
+
+  function onData (chunk) {
+    receivedLength += chunk.length
+
+    if ((payload.receivedEncodedLength || receivedLength) > limit) {
+      payload.removeListener('data', onData)
+      payload.removeListener('end', onEnd)
+      payload.removeListener('error', onEnd)
+      reply.send(new FST_ERR_CTP_BODY_TOO_LARGE())
+      return
+    }
+
+    if (asString === true) {
+      body += chunk
+    } else {
+      body.push(chunk)
+    }
+  }
+
+  function onEnd (err) {
+    payload.removeListener('data', onData)
+    payload.removeListener('end', onEnd)
+    payload.removeListener('error', onEnd)
+
+    if (err !== undefined) {
+      err.statusCode = 400
+      reply.code(err.statusCode).send(err)
+      return
+    }
+
+    if (asString === true) {
+      receivedLength = Buffer.byteLength(body)
+    }
+
+    if (!Number.isNaN(contentLength) && (payload.receivedEncodedLength || receivedLength) !== contentLength) {
+      reply.send(new FST_ERR_CTP_INVALID_CONTENT_LENGTH())
+      return
+    }
+
+    if (asString === false) {
+      body = Buffer.concat(body)
+    }
+
+    const result = parser.fn(request, body, done)
+    if (result && typeof result.then === 'function') {
+      result.then(body => done(null, body), done)
+    }
+  }
+}
+
+function getDefaultJsonParser (onProtoPoisoning, onConstructorPoisoning) {
+  return defaultJsonParser
+
+  function defaultJsonParser (req, body, done) {
+    if (body === '' || body == null) {
+      return done(new FST_ERR_CTP_EMPTY_JSON_BODY(), undefined)
+    }
+    let json
+    try {
+      json = secureJson.parse(body, { protoAction: onProtoPoisoning, constructorAction: onConstructorPoisoning })
+    } catch (err) {
+      err.statusCode = 400
+      return done(err, undefined)
+    }
+    done(null, json)
+  }
+}
+
+function defaultPlainTextParser (req, body, done) {
+  done(null, body)
+}
+
+function Parser (asString, asBuffer, bodyLimit, fn) {
+  this.asString = asString
+  this.asBuffer = asBuffer
+  this.bodyLimit = bodyLimit
+  this.fn = fn
+
+  // Check for deprecation syntax
+  if (fn.length === (fn.constructor.name === 'AsyncFunction' ? 1 : 2)) {
+    warning.emit('FSTDEP003')
+    this.isDeprecatedSignature = true
+  }
+}
+
+function buildContentTypeParser (c) {
+  const contentTypeParser = new ContentTypeParser()
+  contentTypeParser[kDefaultJsonParse] = c[kDefaultJsonParse]
+  contentTypeParser.customParsers = new Map(c.customParsers.entries())
+  contentTypeParser.parserList = c.parserList.slice()
+  contentTypeParser.parserRegExpList = c.parserRegExpList.slice()
+  return contentTypeParser
+}
+
+function addContentTypeParser (contentType, opts, parser) {
+  if (this[kState].started) {
+    throw new Error('Cannot call "addContentTypeParser" when fastify instance is already started!')
+  }
+
+  if (typeof opts === 'function') {
+    parser = opts
+    opts = {}
+  }
+
+  if (!opts) opts = {}
+  if (!opts.bodyLimit) opts.bodyLimit = this[kBodyLimit]
+
+  if (Array.isArray(contentType)) {
+    contentType.forEach((type) => this[kContentTypeParser].add(type, opts, parser))
+  } else {
+    this[kContentTypeParser].add(contentType, opts, parser)
+  }
+
+  return this
+}
+
+function hasContentTypeParser (contentType) {
+  return this[kContentTypeParser].hasParser(contentType)
+}
+
+function removeContentTypeParser (contentType) {
+  if (this[kState].started) {
+    throw new Error('Cannot call "removeContentTypeParser" when fastify instance is already started!')
+  }
+
+  if (Array.isArray(contentType)) {
+    for (const type of contentType) {
+      this[kContentTypeParser].remove(type)
+    }
+  } else {
+    this[kContentTypeParser].remove(contentType)
+  }
+}
+
+function removeAllContentTypeParsers () {
+  if (this[kState].started) {
+    throw new Error('Cannot call "removeAllContentTypeParsers" when fastify instance is already started!')
+  }
+
+  this[kContentTypeParser].removeAll()
+}
+
+function compareContentType (contentType, parserListItem) {
+  if (parserListItem.isEssence) {
+    // we do essence check
+    return contentType.type.indexOf(parserListItem) !== -1
+  } else {
+    // when the content-type includes parameters
+    // we do a full-text search
+    // reject essence content-type before checking parameters
+    if (contentType.type.indexOf(parserListItem.type) === -1) return false
+    for (const key of parserListItem.parameterKeys) {
+      // reject when missing parameters
+      if (!(key in contentType.parameters)) return false
+      // reject when parameters do not match
+      if (contentType.parameters[key] !== parserListItem.parameters[key]) return false
+    }
+    return true
+  }
+}
+
+function compareRegExpContentType (contentType, essenceMIMEType, regexp) {
+  if (regexp.isEssence) {
+    // we do essence check
+    return regexp.test(essenceMIMEType)
+  } else {
+    // when the content-type includes parameters
+    // we do a full-text match
+    return regexp.test(contentType)
+  }
+}
+
+function ParserListItem (contentType) {
+  this.name = contentType
+  // we pre-calculate all the needed information
+  // before content-type comparsion
+  const parsed = safeParseContentType(contentType)
+  this.type = parsed.type
+  this.parameters = parsed.parameters
+  this.parameterKeys = Object.keys(parsed.parameters)
+  this.isEssence = contentType.indexOf(';') === -1
+}
+
+// used in ContentTypeParser.remove
+ParserListItem.prototype.toString = function () {
+  return this.name
+}
+
+module.exports = ContentTypeParser
+module.exports.helpers = {
+  buildContentTypeParser,
+  addContentTypeParser,
+  hasContentTypeParser,
+  removeContentTypeParser,
+  removeAllContentTypeParsers
+}
+module.exports.defaultParsers = {
+  getDefaultJsonParser,
+  defaultTextParser: defaultPlainTextParser
+}
+module.exports[kTestInternals] = { rawBody }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             'use strict'
+
+const t = require('tap')
+const test = t.test
+const http = require('http')
+const request = require('request')
+const FindMyWay = require('../')
+
+test('basic router with http server', t => {
+  t.plan(7)
+  const findMyWay = FindMyWay()
+  findMyWay.on('GET', '/test', (req, res, params) => {
+    t.ok(req)
+    t.ok(res)
+    t.ok(params

@@ -1,2 +1,48 @@
-"use strict";(self["webpackChunkiristravel_v3"]=self["webpackChunkiristravel_v3"]||[]).push([[757],{2757:function(e,t,s){s.r(t),s.d(t,{default:function(){return b}});var o=s(3396);const r={class:"lg:px-24 lg:py-24 md:py-20 md:px-44 px-4 py-24 items-center flex justify-center flex-col-reverse lg:flex-row md:gap-28 gap-16"},i={class:"xl:pt-24 w-full xl:w-1/2 relative pb-12 lg:pb-0"},l={class:"relative"},a={class:"absolute"},n={class:""},c=(0,o._)("h1",{class:"my-2 text-gray-800 font-bold text-2xl"}," Esta pagina no esta disponible o no existe ",-1),p=(0,o._)("p",{class:"my-2 text-gray-800"},"Lo sentimos! Por favor visite la portada para ver nuestras ofertas.",-1),u=(0,o._)("div",null,[(0,o._)("img",{src:"https://i.ibb.co/G9DC8S0/404-2.png"})],-1),g=(0,o._)("div",null,[(0,o._)("img",{src:"https://i.ibb.co/ck1SGFJ/Group.png"})],-1);function d(e,t,s,d,v,f){return(0,o.wg)(),(0,o.iD)("div",r,[(0,o._)("div",i,[(0,o._)("div",l,[(0,o._)("div",a,[(0,o._)("div",n,[c,p,(0,o._)("button",{onClick:t[0]||(t[0]=(...e)=>f.goHome&&f.goHome(...e)),class:"sm:w-full lg:w-auto my-2 border rounded md py-4 px-8 text-center bg-blue text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-700 focus:ring-opacity-50"}," Ir a la portada ")])]),u])]),g])}s(7658);var v={name:"404Comp",methods:{goHome(){this.$router.push("/")}}},f=s(89);const m=(0,f.Z)(v,[["render",d]]);var b=m}}]);
-//# sourceMappingURL=757.b4f58a2b.js.map
+# function-bind
+
+<!--
+    [![build status][travis-svg]][travis-url]
+    [![NPM version][npm-badge-svg]][npm-url]
+    [![Coverage Status][5]][6]
+    [![gemnasium Dependency Status][7]][8]
+    [![Dependency status][deps-svg]][deps-url]
+    [![Dev Dependency status][dev-deps-svg]][dev-deps-url]
+-->
+
+<!-- [![browser support][11]][12] -->
+
+Implementation of function.prototype.bind
+
+## Example
+
+I mainly do this for unit tests I run on phantomjs.
+PhantomJS does not have Function.prototype.bind :(
+
+```js
+Function.prototype.bind = require("function-bind")
+```
+
+## Installation
+
+`npm install function-bind`
+
+## Contributors
+
+ - Raynos
+
+## MIT Licenced
+
+  [travis-svg]: https://travis-ci.org/Raynos/function-bind.svg
+  [travis-url]: https://travis-ci.org/Raynos/function-bind
+  [npm-badge-svg]: https://badge.fury.io/js/function-bind.svg
+  [npm-url]: https://npmjs.org/package/function-bind
+  [5]: https://coveralls.io/repos/Raynos/function-bind/badge.png
+  [6]: https://coveralls.io/r/Raynos/function-bind
+  [7]: https://gemnasium.com/Raynos/function-bind.png
+  [8]: https://gemnasium.com/Raynos/function-bind
+  [deps-svg]: https://david-dm.org/Raynos/function-bind.svg
+  [deps-url]: https://david-dm.org/Raynos/function-bind
+  [dev-deps-svg]: https://david-dm.org/Raynos/function-bind/dev-status.svg
+  [dev-deps-url]: https://david-dm.org/Raynos/function-bind#info=devDependencies
+  [11]: https://ci.testling.com/Raynos/function-bind.png
+  

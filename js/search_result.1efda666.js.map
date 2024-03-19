@@ -1,1 +1,214 @@
-{"version":3,"file":"js/search_result.1efda666.js","mappings":"6PAEeA,MAAM,Y,GACRA,MAAM,gE,UAIVC,EAAAA,EAAAA,GAAgD,QAA1CD,MAAM,0BAAyB,QAAI,K,GAMnCA,MAAM,uB,GAEPA,MAAM,mB,UAERC,EAAAA,EAAAA,GAEM,OAFDD,MAAM,2EACU,W,GAIhBA,MAAM,4D,qHArBpBE,EAAAA,EAAAA,IAuCM,aAtCHD,EAAAA,EAAAA,GASU,UATVE,EASU,EARPF,EAAAA,EAAAA,GAE+B,KAF/BG,GAE+B,QAAfC,EAAAA,SAAO,GAEvBC,GAGAC,EAAAA,EAAAA,IAA4CC,EAAAA,CAAjCC,YAAWC,EAAAA,WAAS,2BAGlCT,EAAAA,EAAAA,GA0BU,UA1BVU,EA0BU,EAxBPV,EAAAA,EAAAA,GAuBM,MAvBNW,EAuBM,CArBHC,GAKAZ,EAAAA,EAAAA,GAeM,MAfNa,EAeM,EAbNP,EAAAA,EAAAA,IAUEQ,EAAAA,CATEC,QAASX,EAAAA,QACTY,KAAMZ,EAAAA,aACNa,QAAQ,EACRC,WAAW,EACXC,OAAM,C,QAAgCf,EAAAA,Q,WAAwCA,EAAAA,Q,KAAkCA,EAAAA,cAAcgB,Q,yCAO/GC,cAAuG,iBAA3F,WAA/BpB,EAAAA,EAAAA,IAAiI,SAA/F,oG,2DCnC3CA,EAAAA,EAAAA,IAMaqB,EAAAA,GAAAA,MAAAA,EAAAA,EAAAA,IAHcC,EAAAA,OAAOP,MAAI,CAA3BA,EAAMQ,M,WAHjBC,EAAAA,EAAAA,KAMaC,EAAAA,EAAAA,IALLjB,EAAAA,aAAW,CACfQ,OAAQU,EAAAA,OAC6BC,IAAKJ,EAC1CR,KAAMA,EAAOQ,MAAOA,EACpBL,OAAQI,EAAAA,OAAOJ,Q,2EAStB,GACGU,KAAM,sBACNC,WAAY,CACTC,gBAAe,IACfC,iBAAgBA,EAAAA,GAEnBC,MAAM,CACHhB,OAAQ,CACLiB,KAAMC,QACNC,SAAS,IAGfC,OACG,MAAO,CAEJC,QAAS,GACTjB,aAAc,GACdF,OAAQ,CAAC,EACToB,MAAM,CACHC,MAAO,GACPC,KAAM,IAETC,IAAI,CACJ,EAEN,EACAC,SAAU,CACPC,cACC,OAAQC,KAAKC,OAAO/B,SAClB,IAAK,MACH,MAAO,kBACT,IAAK,QACH,MAAO,mBACT,QAEE,OAAO,KAEb,GAEFgC,QAAS,CAET,G,QCnDH,MAAMC,GAA2B,OAAgB,EAAQ,CAAC,CAAC,SAAS,KAEpE,Q,SF2CA,GACGnB,KAAM,eACNC,WAAY,CACTmB,SAAQ,IAERC,oBAAmBA,GAGtBb,OACG,MAAO,CACJtB,QAAS,GACTuB,QAAS,GACTjB,aAAc,GACd8B,cAAe,CAAC,EAChBZ,MAAM,CACHC,MAAO,GACPC,KAAM,IAETC,IAAI,CAAC,EAEX,EACAU,gBAEGP,KAAKQ,WACR,EACAN,QAAS,CACNO,YAAY9B,GAETqB,KAAKL,MAAMe,KAAI,CAACC,EAAGC,KAChBD,EAAEE,OAAUlC,IAAUiC,CAAgB,GAE5C,EACAL,kBAEG,MAAMjC,EAASwC,KAAKC,MAAMC,aAAaC,QAAQ,eAG/C,OAFAjB,KAAK1B,OAAS0B,KAAKxB,aAEZF,EAAOe,MACX,IAAK,MACFW,KAAK9B,QAAU,MACf8B,KAAKP,QAAU,OACfO,KAAKxB,mBAAqBwB,KAAKkB,YAC/B,MACH,IAAK,QACFlB,KAAK9B,QAAU,QACf8B,KAAKP,QAAU,OACfO,KAAKxB,mBAAqBwB,KAAKmB,cAC/B,MAGFnB,KAAKxB,cAA6C,IAA7BwB,KAAKxB,aAAa4C,QAC3CpB,KAAKqB,MAAM,CACLC,MAAO,mBACPC,KAAM,oCACNC,KAAM,OACNC,mBAAoB,WAG7B,EACAlB,kBACG,MAAMjC,EAASwC,KAAKC,MAAMC,aAAaC,QAAQ,eAG5C3C,IACA0B,KAAKM,cAAgB,CAClB,gBAAmBhC,EAAOoD,gBAC1B,cAAiBpD,EAAOqD,cAExB,UAAarD,EAAOsD,WACpB,QAAWtD,EAAOuD,WAKxB7B,KAAKM,cAAcwB,KAAO,SAC1B,MAAMtD,QAAqBuD,EAAAA,EAAAA,WAAyB,qBAAsB/B,KAAKM,cAAe,QAAQ0B,MAAKC,IACxG,GAAGA,EAAGzC,KAGH,OAFsB,IAAnByC,EAAGzC,KAAK4B,QACXa,EAAGzC,KAAK0C,SAAQ/D,GAAQA,EAAKgE,MAAQhE,EAAKgE,OAASC,EAAQ,OACpDH,EAAGzC,KAGV,KAAM,OACT,IAEF6C,OAAMC,IACDtC,KAAKqB,MAAM,CACXC,MAAO,QACPC,KAAMe,GAAO,sBACbd,KAAM,QACNC,mBAAoB,WACrB,IAGL,OAAOjD,CACV,EACA+B,oBACG,MAAMjC,EAASwC,KAAKC,MAAMC,aAAaC,QAAQ,eAI5C3C,IACA0B,KAAKM,cAAgB,CAClBiC,SAAUjE,EAAOoB,MACjB,UAAapB,EAAOkE,UAAU,GAC9B,QAAWlE,EAAOkE,UAAU,GAC5B,QAAWlE,EAAOmE,YAClB,MAASnE,EAAOC,MAChB,MAASD,EAAOoE,QAKtB1C,KAAKM,cAAcwB,KAAO,SAC1B,MAAMtD,QAAqBuD,EAAAA,EAAAA,WAAyB,wBAAyB/B,KAAKM,cAAe,QAAQ0B,MAAKC,IAC3G,GAAGA,EAAGzC,KACH,OAAOyC,EAAGzC,KAEV,KAAM,OACT,IAaF6C,OAAMC,IACDtC,KAAKqB,MAAM,CACXC,MAAO,QACPC,KAAMe,GAAO,sBACbd,KAAM,QACNC,mBAAoB,WACrB,IAEL,OAAOjD,CACV,IGxLN,MAAM,GAA2B,OAAgB,EAAQ,CAAC,CAAC,SAASmE,GAAQ,CAAC,YAAY,qBAEzF,O","sources":["webpack://iristravel_v3/./src/views/SearchResult.vue","webpack://iristravel_v3/./src/components/product/ListTemplateWrapper.vue","webpack://iristravel_v3/./src/components/product/ListTemplateWrapper.vue?df25","webpack://iristravel_v3/./src/views/SearchResult.vue?109d"],"sourcesContent":["<template>\r\n   <div>\r\n      <section class=\"bg-white\">\r\n         <h2 class=\"capitalize text-3xl pt-6 text-blue_1 \r\n         md:text-6xl\r\n         lg:text-4xl\">{{ product }}</h2>\r\n\r\n         <span class=\"font-Clarissa text-5xl\">Cuba</span>\r\n\r\n         <!-- BUSCADOR -->\r\n         <searcher @updparams=\"updSearch\"></searcher>\r\n      </section>\r\n\r\n      <section class=\"bg-white text-white\">\r\n \r\n         <div class=\"bg-blue_1 pb-10\">\r\n            <!-- Listado polo -->\r\n            <div class=\"flex flex-wrap justify-center gap-4 text-sm m-auto \r\n            md:text-2xl md:w-4/6\">\r\n            </div>\r\n\r\n            <!-- Listado de productos por polo -->\r\n            <div class=\"container flex flex-col gap-20 items-center py-20 m-auto\">\r\n\r\n            <list-template-wrapper \r\n               :product=\"product\"\r\n               :item=\"product_list\"\r\n               :search=\"true\"\r\n               :not_found=\"true\"\r\n               :params=\"{\r\n                  poleKey: country,\r\n                  productKey: product,\r\n                  comb: search_params.rooms\r\n               }\"\r\n            />\r\n\r\n            <span v-if=\"(!this.product_list)\">No se encontro ningun precio para el rango de fecha determinado. Intente con otro rango.</span>    \r\n            </div>\r\n         </div>\r\n      </section>\r\n   </div>\r\n</template>\r\n<script>\r\n// import moment from 'moment'\r\nimport Searcher from \"@/components/searcher/Searcher.vue\";\r\n// import ProductListTemplate from '@/components/ProductListTemplate'\r\nimport ListTemplateWrapper from '@/components/product/ListTemplateWrapper.vue';\r\n\r\nimport Authorization from \"@/services/user/auth.service\";\r\n\r\nexport default {\r\n   name: 'SearchResult',\r\n   components: {\r\n      Searcher,\r\n      // ProductListTemplate,\r\n      ListTemplateWrapper\r\n   },\r\n\r\n   data() {\r\n      return {\r\n         product: '',\r\n         country: '',\r\n         product_list: [],\r\n         search_params: {},\r\n         hotel:{\r\n            poles: [],\r\n            pole: ''\r\n         },\r\n         car:{},\r\n      }\r\n   },   \r\n   async created() {\r\n      \r\n      this.updSearch();\r\n   },\r\n   methods: {\r\n      getPoleInfo(index) {\r\n         \r\n         this.poles.map((e, i) => {            \r\n            e.active = (index === i) ? true : false\r\n         })         \r\n      },\r\n      async updSearch() {\r\n         \r\n         const params = JSON.parse(localStorage.getItem('searchform'))\r\n         this.params = this.product_list\r\n\r\n         switch(params.type){\r\n            case 'car':\r\n               this.product = 'car'\r\n               this.country = 'Cuba'\r\n               this.product_list = await this.searchCar();\r\n               break;\r\n            case 'hotel':\r\n               this.product = 'hotel'\r\n               this.country = 'Cuba'\r\n               this.product_list = await this.searchHotel();\r\n               break;\r\n         }\r\n\r\n         if(!this.product_list || this.product_list.length === 0)\r\n         this.$swal({\r\n               title: 'No hay elementos',\r\n               text: 'No hay elementos en esta busqueda',\r\n               icon: 'info',                \r\n               confirmButtonColor: '#3085d6',                            \r\n            }) \r\n\r\n      },\r\n      async searchCar() {\r\n         const params = JSON.parse(localStorage.getItem('searchform'))\r\n                  \r\n         //Format Params                  \r\n         if(params) {\r\n            this.search_params = {\r\n               \"car_category_id\": params.car_category_id,\r\n               \"car_engine_id\": params.car_engine_id,\r\n               // \"car_pickup_place_id\": params.car_pickup_place_id,\t\r\n               \"date_from\": params.date_start,\r\n               \"date_to\": params.date_out,\r\n            }\r\n         }\r\n\r\n         // Searching by params\r\n         this.search_params.auth = 'bearer'         \r\n         const product_list = await Authorization.checkLogin('/search/car/prices', this.search_params, 'post').then(el => {\r\n            if(el.data){\r\n               if(el.data.length !== 0 )\r\n               el.data.forEach(item => item.image = item.image || require(\"@/assets/img/car/car.jpg\"));\r\n               return el.data\r\n            }\r\n            else{                                 \r\n               throw 'Error'\r\n            }\r\n         })\r\n         .catch(error => {\r\n               this.$swal({\r\n               title: 'Error',\r\n               text: error||'Ocurrio un error!!!',\r\n               icon: 'error',                \r\n               confirmButtonColor: '#3085d6',                            \r\n            }) \r\n         })\r\n         \r\n         return product_list;\r\n      },\r\n      async searchHotel() {\r\n         const params = JSON.parse(localStorage.getItem('searchform'))\r\n         \r\n         \r\n         //Format Params                  \r\n         if(params) {            \r\n            this.search_params = {\r\n               hotel_id: params.hotel,\t\r\n               \"date_from\": params.dateRange[0],\r\n               \"date_to\": params.dateRange[1],\r\n               \"pole_id\": params.destination,\r\n               \"rooms\": params.rooms,\r\n               \"stars\": params.stars\r\n            }\r\n         }\r\n\r\n         // Searching by params\r\n         this.search_params.auth = 'bearer'\r\n         const product_list = await Authorization.checkLogin('/search/hotels/prices', this.search_params, 'post').then(el => {\r\n            if(el.data)\r\n               return el.data\r\n            else{               \r\n               throw 'Error'\r\n            }\r\n\r\n            /* if(e) {                             \r\n               this.product_list = e.data\r\n               \r\n               this.product_list.map(p => {                  \r\n                  p.segment = {\r\n                        name: \"playa\",\r\n                        img: require(\"@/assets/img/segment/playa.png\")\r\n                     }\r\n               })\r\n            } */         \r\n         })\r\n         .catch(error => {\r\n               this.$swal({\r\n               title: 'Error',\r\n               text: error||'Ocurrio un error!!!',\r\n               icon: 'error',                \r\n               confirmButtonColor: '#3085d6',                            \r\n            }) \r\n         })\r\n         return product_list;\r\n      }\r\n   }\r\n   \r\n}\r\n</script>\r\n<style scoped>\r\n   article {\r\n      grid-template-rows: auto auto;\r\n      grid-template-columns: auto;\r\n   }\r\n\r\n   @media screen and (min-width: 768px) {\r\n      article {\r\n         grid-template-columns: 27% auto;  \r\n         grid-template-rows: auto;  \r\n      }      \r\n   }\r\n</style>","<template>\r\n   <component \r\n      :is=\"componentId\"\r\n      :search=\"search\"\r\n      v-for=\"(item, index) in $attrs.item\" :key=\"index\"\r\n      :item=\"item\" :index=\"index\"      \r\n      :params=\"$attrs.params\"\r\n   ></component> \r\n</template>\r\n<script>\r\n\r\nimport CarListTemplate from './CarListTemplate.vue'\r\nimport HoteListTemplate from './HotelListTemplate.vue'\r\n\r\n\r\nexport default {\r\n   name: 'ListTemplateWrapper',\r\n   components: {\r\n      CarListTemplate,\r\n      HoteListTemplate,\r\n   },\r\n   props:{\r\n      search: {\r\n         type: Boolean,\r\n         default: false,\r\n      },\r\n   },\r\n   data() {\r\n      return {\r\n         // product: '',\r\n         country: '',\r\n         product_list: [],\r\n         params: {},\r\n         hotel:{\r\n            poles: [],\r\n            pole: ''\r\n         },\r\n         car:{\r\n         }\r\n      }      \r\n   },\r\n   computed: {\r\n      componentId() {\r\n       switch (this.$attrs.product) {\r\n         case 'car':\r\n           return 'CarListTemplate';\r\n         case 'hotel':\r\n           return 'HoteListTemplate';\r\n         default:\r\n           // manejar cualquier otro caso, posiblemente mostrar un error o redirigir\r\n           return null;\r\n       }\r\n     }\r\n   },\r\n   methods: {\r\n\r\n   }\r\n}\r\n</script>\r\n<style scoped>\r\n</style>\r\n","import { render } from \"./ListTemplateWrapper.vue?vue&type=template&id=7fdb3c4d\"\nimport script from \"./ListTemplateWrapper.vue?vue&type=script&lang=js\"\nexport * from \"./ListTemplateWrapper.vue?vue&type=script&lang=js\"\n\nimport exportComponent from \"D:\\\\Proyects\\\\Iristravel\\\\Iristravel_frontend\\\\iristravel_v3\\\\node_modules\\\\vue-loader\\\\dist\\\\exportHelper.js\"\nconst __exports__ = /*#__PURE__*/exportComponent(script, [['render',render]])\n\nexport default __exports__","import { render } from \"./SearchResult.vue?vue&type=template&id=0f515496&scoped=true\"\nimport script from \"./SearchResult.vue?vue&type=script&lang=js\"\nexport * from \"./SearchResult.vue?vue&type=script&lang=js\"\n\nimport \"./SearchResult.vue?vue&type=style&index=0&id=0f515496&scoped=true&lang=css\"\n\nimport exportComponent from \"D:\\\\Proyects\\\\Iristravel\\\\Iristravel_frontend\\\\iristravel_v3\\\\node_modules\\\\vue-loader\\\\dist\\\\exportHelper.js\"\nconst __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',\"data-v-0f515496\"]])\n\nexport default __exports__"],"names":["class","_createElementVNode","_createElementBlock","_hoisted_1","_hoisted_2","$data","_hoisted_3","_createVNode","_component_searcher","onUpdparams","$options","_hoisted_4","_hoisted_5","_hoisted_6","_hoisted_7","_component_list_template_wrapper","product","item","search","not_found","params","rooms","product_list","_Fragment","_ctx","index","_createBlock","_resolveDynamicComponent","$props","key","name","components","CarListTemplate","HoteListTemplate","props","type","Boolean","default","data","country","hotel","poles","pole","car","computed","componentId","this","$attrs","methods","__exports__","Searcher","ListTemplateWrapper","search_params","async","updSearch","getPoleInfo","map","e","i","active","JSON","parse","localStorage","getItem","searchCar","searchHotel","length","$swal","title","text","icon","confirmButtonColor","car_category_id","car_engine_id","date_start","date_out","auth","Authorization","then","el","forEach","image","require","catch","error","hotel_id","dateRange","destination","stars","render"],"sourceRoot":""}
+ 128 results in the softest video.
+     */
+    Softness?: __integerMin0Max128;
+    /**
+     * The best way to set up adaptive quantization is to keep the default value, Auto (AUTO), for the setting Adaptive quantization (adaptiveQuantization). When you do so, MediaConvert automatically applies the best types of quantization for your video content. Include this setting in your JSON job specification only when you choose to change the default value for Adaptive quantization. For this setting, keep the default value, Enabled (ENABLED), to adjust quantization within each frame based on spatial variation of content complexity. When you enable this feature, the encoder uses fewer bits on areas that can sustain more distortion with no noticeable visual degradation and uses more bits on areas where any small distortion will be noticeable. For example, complex textured blocks are encoded with fewer bits and smooth textured blocks are encoded with more bits. Enabling this feature will almost always improve your video quality. Note, though, that this feature doesn't take into account where the viewer's attention is likely to be. If viewers are likely to be focusing their attention on a part of the screen with a lot of complex texture, you might choose to disable this feature. Related setting: When you enable spatial adaptive quantization, set the value for Adaptive quantization (adaptiveQuantization) depending on your content. For homogeneous content, such as cartoons and video games, set it to Low. For content with a wider variety of textures, set it to High or Higher.
+     */
+    SpatialAdaptiveQuantization?: XavcSpatialAdaptiveQuantization;
+    /**
+     * The best way to set up adaptive quantization is to keep the default value, Auto (AUTO), for the setting Adaptive quantization (adaptiveQuantization). When you do so, MediaConvert automatically applies the best types of quantization for your video content. Include this setting in your JSON job specification only when you choose to change the default value for Adaptive quantization. For this setting, keep the default value, Enabled (ENABLED), to adjust quantization within each frame based on temporal variation of content complexity. When you enable this feature, the encoder uses fewer bits on areas of the frame that aren't moving and uses more bits on complex objects with sharp edges that move a lot. For example, this feature improves the readability of text tickers on newscasts and scoreboards on sports matches. Enabling this feature will almost always improve your video quality. Note, though, that this feature doesn't take into account where the viewer's attention is likely to be. If viewers are likely to be focusing their attention on a part of the screen that doesn't have moving objects with sharp edges, such as sports athletes' faces, you might choose to disable this feature. Related setting: When you enable temporal adaptive quantization, adjust the strength of the filter with the setting Adaptive quantization (adaptiveQuantization).
+     */
+    TemporalAdaptiveQuantization?: XavcTemporalAdaptiveQuantization;
+    /**
+     * Required when you set (Profile) under (VideoDescription)>(CodecSettings)>(XavcSettings) to the value XAVC_4K_INTRA_CBG.
+     */
+    Xavc4kIntraCbgProfileSettings?: Xavc4kIntraCbgProfileSettings;
+    /**
+     * Required when you set (Profile) under (VideoDescription)>(CodecSettings)>(XavcSettings) to the value XAVC_4K_INTRA_VBR.
+     */
+    Xavc4kIntraVbrProfileSettings?: Xavc4kIntraVbrProfileSettings;
+    /**
+     * Required when you set (Profile) under (VideoDescription)>(CodecSettings)>(XavcSettings) to the value XAVC_4K.
+     */
+    Xavc4kProfileSettings?: Xavc4kProfileSettings;
+    /**
+     * Required when you set (Profile) under (VideoDescription)>(CodecSettings)>(XavcSettings) to the value XAVC_HD_INTRA_CBG.
+     */
+    XavcHdIntraCbgProfileSettings?: XavcHdIntraCbgProfileSettings;
+    /**
+     * Required when you set (Profile) under (VideoDescription)>(CodecSettings)>(XavcSettings) to the value XAVC_HD.
+     */
+    XavcHdProfileSettings?: XavcHdProfileSettings;
+  }
+  export type XavcSlowPal = "DISABLED"|"ENABLED"|string;
+  export type XavcSpatialAdaptiveQuantization = "DISABLED"|"ENABLED"|string;
+  export type XavcTemporalAdaptiveQuantization = "DISABLED"|"ENABLED"|string;
+  export type __doubleMin0 = number;
+  export type __doubleMin0Max1 = number;
+  export type __doubleMin0Max2147483647 = number;
+  export type __doubleMinNegative20Max0 = number;
+  export type __doubleMinNegative59Max0 = number;
+  export type __doubleMinNegative60Max3 = number;
+  export type __doubleMinNegative60Max6 = number;
+  export type __doubleMinNegative60MaxNegative1 = number;
+  export type __doubleMinNegative6Max3 = number;
+  export type __integer = number;
+  export type __integerMin0Max0 = number;
+  export type __integerMin0Max1 = number;
+  export type __integerMin0Max10 = number;
+  export type __integerMin0Max100 = number;
+  export type __integerMin0Max1000 = number;
+  export type __integerMin0Max10000 = number;
+  export type __integerMin0Max1152000000 = number;
+  export type __integerMin0Max128 = number;
+  export type __integerMin0Max1466400000 = number;
+  export type __integerMin0Max15 = number;
+  export type __integerMin0Max16 = number;
+  export type __integerMin0Max2147483647 = number;
+  export type __integerMin0Max255 = number;
+  export type __integerMin0Max3 = number;
+  export type __integerMin0Max30 = number;
+  export type __integerMin0Max30000 = number;
+  export type __integerMin0Max3600 = number;
+  export type __integerMin0Max4 = number;
+  export type __integerMin0Max4000 = number;
+  export type __integerMin0Max4194303 = number;
+  export type __integerMin0Max47185920 = number;
+  export type __integerMin0Max5 = number;
+  export type __integerMin0Max500 = number;
+  export type __integerMin0Max50000 = number;
+  export type __integerMin0Max65534 = number;
+  export type __integerMin0Max65535 = number;
+  export type __integerMin0Max7 = number;
+  export type __integerMin0Max8 = number;
+  export type __integerMin0Max9 = number;
+  export type __integerMin0Max96 = number;
+  export type __integerMin0Max99 = number;
+  export type __integerMin100000Max100000000 = number;
+  export type __integerMin1000Max1152000000 = number;
+  export type __integerMin1000Max1466400000 = number;
+  export type __integerMin1000Max288000000 = number;
+  export type __integerMin1000Max30000 = number;
+  export type __integerMin1000Max300000000 = number;
+  export type __integerMin1000Max480000000 = number;
+  export type __integerMin100Max1000 = number;
+  export type __integerMin10Max48 = number;
+  export type __integerMin16000Max320000 = number;
+  export type __integerMin16000Max48000 = number;
+  export type __integerMin16Max24 = number;
+  export type __integerMin1Max1 = number;
+  export type __integerMin1Max10 = number;
+  export type __integerMin1Max100 = number;
+  export type __integerMin1Max10000000 = number;
+  export type __integerMin1Max1001 = number;
+  export type __integerMin1Max17895697 = number;
+  export type __integerMin1Max2 = number;
+  export type __integerMin1Max20 = number;
+  export type __integerMin1Max2048 = number;
+  export type __integerMin1Max2147483640 = number;
+  export type __integerMin1Max2147483647 = number;
+  export type __integerMin1Max31 = number;
+  export type __integerMin1Max32 = number;
+  export type __integerMin1Max4 = number;
+  export type __integerMin1Max4096 = number;
+  export type __integerMin1Max512 = number;
+  export type __integerMin1Max6 = number;
+  export type __integerMin1Max60000 = number;
+  export type __integerMin1Max64 = number;
+  export type __integerMin22050Max48000 = number;
+  export type __integerMin24Max60000 = number;
+  export type __integerMin25Max10000 = number;
+  export type __integerMin25Max2000 = number;
+  export type __integerMin2Max2147483647 = number;
+  export type __integerMin2Max4096 = number;
+  export type __integerMin32000Max192000 = number;
+  export type __integerMin32000Max3024000 = number;
+  export type __integerMin32000Max384000 = number;
+  export type __integerMin32000Max48000 = number;
+  export type __integerMin32Max8182 = number;
+  export type __integerMin32Max8192 = number;
+  export type __integerMin384000Max1024000 = number;
+  export type __integerMin3Max15 = number;
+  export type __integerMin48000Max48000 = number;
+  export type __integerMin4Max12 = number;
+  export type __integerMin50Max86400000 = number;
+  export type __integerMin6000Max1024000 = number;
+  export type __integerMin64000Max640000 = number;
+  export type __integerMin8000Max192000 = number;
+  export type __integerMin8000Max96000 = number;
+  export type __integerMin8Max12 = number;
+  export type __integerMin8Max4096 = number;
+  export type __integerMin90Max105 = number;
+  export type __integerMin920Max1023 = number;
+  export type __integerMin96Max600 = number;
+  export type __integerMinNegative1000Max1000 = number;
+  export type __integerMinNegative180Max180 = number;
+  export type __integerMinNegative1Max10 = number;
+  export type __integerMinNegative1Max3 = number;
+  export type __integerMinNegative2147483648Max2147483647 = number;
+  export type __integerMinNegative2Max3 = number;
+  export type __integerMinNegative50Max50 = number;
+  export type __integerMinNegative5Max10 = number;
+  export type __integerMinNegative60Max6 = number;
+  export type __integerMinNegative70Max0 = number;
+  export type __listOfAllowedRenditionSize = AllowedRenditionSize[];
+  export type __listOfAudioDescription = AudioDescription[];
+  export type __listOfAutomatedAbrRule = AutomatedAbrRule[];
+  export type __listOfCaptionDescription = CaptionDescription[];
+  export type __listOfCaptionDescriptionPreset = CaptionDescriptionPreset[];
+  export type __listOfCmafAdditionalManifest = CmafAdditionalManifest[];
+  export type __listOfDashAdditionalManifest = DashAdditionalManifest[];
+  export type __listOfEndpoint = Endpoint[];
+  export type __listOfForceIncludeRenditionSize = ForceIncludeRenditionSize[];
+  export type __listOfHlsAdMarkers = HlsAdMarkers[];
+  export type __listOfHlsAdditionalManifest = HlsAdditionalManifest[];
+  export type __listOfHlsCaptionLanguageMapping = HlsCaptionLanguageMapping[];
+  export type __listOfHopDestination = HopDestination[];
+  export type __listOfId3Insertion = Id3Insertion[];
+  export type __listOfInput = Input[];
+  export type __listOfInputClipping = InputClipping[];
+  export type __listOfInputTemplate = InputTemplate[];
+  export type __listOfInsertableImage = InsertableImage[];
+  export type __listOfJob = Job[];
+  export type __listOfJobTemplate = JobTemplate[];
+  export type __listOfMsSmoothAdditionalManifest = MsSmoothAdditionalManifest[];
+  export type __listOfOutput = Output[];
+  export type __listOfOutputChannelMapping = OutputChannelMapping[];
+  export type __listOfOutputDetail = OutputDetail[];
+  export type __listOfOutputGroup = OutputGroup[];
+  export type __listOfOutputGroupDetail = OutputGroupDetail[];
+  export type __listOfPreset = Preset[];
+  export type __listOfQueue = Queue[];
+  export type __listOfQueueTransition = QueueTransition[];
+  export type __listOfTeletextPageType = TeletextPageType[];
+  export type __listOf__doubleMinNegative60Max6 = __doubleMinNegative60Max6[];
+  export type __listOf__integerMin1Max2147483647 = __integerMin1Max2147483647[];
+  export type __listOf__integerMin32Max8182 = __integerMin32Max8182[];
+  export type __listOf__integerMinNegative60Max6 = __integerMinNegative60Max6[];
+  export type __listOf__string = __string[];
+  export type __listOf__stringMin1 = __stringMin1[];
+  export type __listOf__stringMin36Max36Pattern09aFAF809aFAF409aFAF409aFAF409aFAF12 = __stringMin36Max36Pattern09aFAF809aFAF409aFAF409aFAF409aFAF12[];
+  export type __listOf__stringPattern09aFAF809aFAF409aFAF409aFAF409aFAF12 = __stringPattern09aFAF809aFAF409aFAF409aFAF409aFAF12[];
+  export type __listOf__stringPatternS3ASSETMAPXml = __stringPatternS3ASSETMAPXml[];
+  export type __mapOfAudioSelector = {[key: string]: AudioSelector};
+  export type __mapOfAudioSelectorGroup = {[key: string]: AudioSelectorGroup};
+  export type __mapOfCaptionSelector = {[key: string]: CaptionSelector};
+  export type __mapOf__string = {[key: string]: __string};
+  export type __string = string;
+  export type __stringMax1000 = string;
+  export type __stringMin0 = string;
+  export type __stringMin1 = string;
+  export type __stringMin11Max11Pattern01D20305D205D = string;
+  export type __stringMin14PatternS3BmpBMPPngPNGHttpsBmpBMPPngPNG = string;
+  export type __stringMin14PatternS3BmpBMPPngPNGTgaTGAHttpsBmpBMPPngPNGTgaTGA = string;
+  export type __stringMin14PatternS3Mov09PngHttpsMov09Png = string;
+  export type __stringMin14PatternS3SccSCCTtmlTTMLDfxpDFXPStlSTLSrtSRTXmlXMLSmiSMIVttVTTWebvttWEBVTTHttpsSccSCCTtmlTTMLDfxpDFXPStlSTLSrtSRTXmlXMLSmiSMIVttVTTWebvttWEBVTT = string;
+  export type __stringMin14PatternS3XmlXMLHttpsXmlXML = string;
+  export type __stringMin16Max24PatternAZaZ0922AZaZ0916 = string;
+  export type __stringMin1Max100000 = string;
+  export type __stringMin1Max20 = string;
+  export type __stringMin1Max256 = string;
+  export type __stringMin1Max50 = string;
+  export type __stringMin1Max50PatternAZAZ09 = string;
+  export type __stringMin1Max512PatternAZAZ09 = string;
+  export type __stringMin24Max512PatternAZaZ0902 = string;
+  export type __stringMin32Max32Pattern09aFAF32 = string;
+  export type __stringMin36Max36Pattern09aFAF809aFAF409aFAF409aFAF409aFAF12 = string;
+  export type __stringMin3Max3Pattern1809aFAF09aEAE = string;
+  export type __stringMin3Max3PatternAZaZ3 = string;
+  export type __stringMin6Max8Pattern09aFAF609aFAF2 = string;
+  export type __stringMin9Max19PatternAZ26EastWestCentralNorthSouthEastWest1912 = string;
+  export type __stringPattern = string;
+  export type __stringPattern010920405090509092 = string;
+  export type __stringPattern01D20305D205D = string;
+  export type __stringPattern0940191020191209301 = string;

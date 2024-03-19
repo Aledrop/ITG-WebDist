@@ -1,1 +1,648 @@
-{"version":3,"file":"js/855.fe2f2ec1.js","mappings":"uQACaA,MAAM,4B,GAKLA,MAAM,mB,UACRC,EAAAA,EAAAA,GAEwC,MAFpCD,MAAM,oDAEG,0BAAsB,K,GAE9BA,MAAM,sD,UAGPC,EAAAA,EAAAA,GAAkG,MAA9FD,MAAM,gEAA+D,wBAAoB,K,GAGxFA,MAAM,iE,GA4BFA,MAAM,oC,UACTC,EAAAA,EAAAA,GAA+C,MAA3CD,MAAM,yBAAwB,YAAQ,K,GACrCA,MAAM,uC,UAGPC,EAAAA,EAAAA,GAAgE,QAA1DD,MAAM,qCAAoC,aAAS,K,UAIzDC,EAAAA,EAAAA,GAA+D,QAAzDD,MAAM,qCAAoC,YAAQ,K,UAMlEC,EAAAA,EAAAA,GAAuF,MAAnFD,MAAM,gEAA+D,aAAS,K,GAE7EA,MAAM,wH,yBAeFA,MAAM,6B,UAC4DC,EAAAA,EAAAA,GAAgC,KAA7BD,MAAM,oBAAkB,W,GAA3BE,G,UACDD,EAAAA,EAAAA,GAA0B,KAAvBD,MAAM,cAAY,W,GAArBG,G,GAC7DH,MAAM,gB,UAKnBC,EAAAA,EAAAA,GAAI,qB,UACJA,EAAAA,EAAAA,GAAyF,MAArFD,MAAM,gEAA+D,eAAW,K,GAE/EA,MAAM,yC,UA0CXC,EAAAA,EAAAA,GAAI,qB,UACJA,EAAAA,EAAAA,GAAoG,MAAhGD,MAAM,gEAA+D,0BAAsB,K,UAE/FC,EAAAA,EAAAA,GAA6C,SAAtCG,IAAI,YAAW,mBAAe,K,GAEhCJ,MAAM,qB,GAcNA,MAAM,uC,UACTC,EAAAA,EAAAA,GAEQ,aAFD,uEAEP,K,SAC0BD,MAAM,8C,UAC9BC,EAAAA,EAAAA,GAAgE,QAA1DD,MAAM,YAAU,EAACC,EAAAA,EAAAA,GAAkC,KAA/BD,MAAM,yBAAoB,K,GAChDA,MAAM,4B,SAKgBA,MAAM,gD,UAChCC,EAAAA,EAAAA,GAAgE,QAA1DD,MAAM,YAAU,EAACC,EAAAA,EAAAA,GAAkC,KAA/BD,MAAM,yBAAoB,K,UAElDC,EAAAA,EAAAA,GAAwE,MAApED,MAAM,uBAAsB,uCAAmC,K,SACvCA,MAAM,W,UAYxCC,EAAAA,EAAAA,GAGS,UAHDI,KAAK,SACXL,MAAM,0JAAyJ,YAEjK,K,0EAlLZM,EAAAA,EAAAA,IAuLU,UAvLVC,EAuLU,EAlLLN,EAAAA,EAAAA,GAgLM,MAhLNO,EAgLM,CA/KHC,GAIAR,EAAAA,EAAAA,GA0KM,MA1KNS,EA0KM,EAzKJT,EAAAA,EAAAA,GAwKO,QAxKDD,MAAM,gFACXW,SAAM,sBAAEC,EAAAA,YAAAA,EAAAA,cAAAA,K,CACPC,GAGAZ,EAAAA,EAAAA,GAyCM,MAzCNa,EAyCM,WAxCJb,EAAAA,EAAAA,GAKwG,SALjGc,KAAK,aACVV,KAAK,OACLW,YAAY,WACZC,SAAA,G,qCACSC,EAAAA,SAASC,WAAU,GAC5BnB,MAAM,iG,iBADGkB,EAAAA,SAASC,eAAU,SAG9BlB,EAAAA,EAAAA,GAKwG,SALjGc,KAAK,QACVV,KAAK,QACLW,YAAY,WACZC,SAAA,G,qCACSC,EAAAA,SAASE,MAAK,GACvBpB,MAAM,iG,iBADGkB,EAAAA,SAASE,UAAK,SAGzBnB,EAAAA,EAAAA,GAKwG,SALjGc,KAAK,YACVV,KAAK,OACLW,YAAY,aACZC,SAAA,G,qCACSC,EAAAA,SAASG,UAAS,GAC3BrB,MAAM,iG,iBADGkB,EAAAA,SAASG,cAAS,SAG7BpB,EAAAA,EAAAA,GAIwG,SAJjGc,KAAK,QACVV,KAAK,OACLW,YAAY,W,qCACHE,EAAAA,SAASI,MAAK,GACvBtB,MAAM,iG,iBADGkB,EAAAA,SAASI,UAGlBrB,EAAAA,EAAAA,GAYI,MAZJsB,EAYI,CAXFC,GACAvB,EAAAA,EAAAA,GASM,MATNwB,EASM,EARJxB,EAAAA,EAAAA,GAGQ,wBAFNA,EAAAA,EAAAA,GAAyE,SAAlEc,KAAK,SAASV,KAAK,QAAQqB,MAAM,I,qCAAaR,EAAAA,SAASS,UAAS,I,iBAAlBT,EAAAA,SAASS,aAC9DC,KAEF3B,EAAAA,EAAAA,GAGQ,wBAFNA,EAAAA,EAAAA,GAAyE,SAAlEc,KAAK,SAASV,KAAK,QAAQqB,MAAM,I,qCAAaR,EAAAA,SAASS,UAAS,I,iBAAlBT,EAAAA,SAASS,aAC9DE,UAMVC,GAEA7B,EAAAA,EAAAA,GAqBM,MArBN8B,EAqBM,WApBJ9B,EAAAA,EAAAA,GAKyE,SALlEc,KAAK,WACTV,KAAOa,EAAAA,SAAQ,kBAChBF,YAAY,eACZC,SAAA,G,qCACSC,EAAAA,KAAI,GACblB,MAAM,kE,iBADGkB,EAAAA,SAAI,SAIbjB,EAAAA,EAAAA,GAKwG,SALjGc,KAAK,aACTV,KAAOa,EAAAA,SAAQ,kBAChBF,YAAY,uBACZC,SAAA,G,qCACSC,EAAAA,WAAU,GACnBlB,MAAM,iG,iBADGkB,EAAAA,eAEXjB,EAAAA,EAAAA,GAKI,MALJ+B,EAKI,WAJF/B,EAAAA,EAAAA,GAA8G,UAAtGI,KAAK,SAAU4B,QAAK,eAAEf,EAAAA,UAAUA,EAAAA,W,eAAmBA,EAAAA,aAAQ,SACnEjB,EAAAA,EAAAA,GAAuG,UAA/FI,KAAK,SAAU4B,QAAK,eAAEf,EAAAA,UAAUA,EAAAA,W,cAAkBA,EAAAA,aAAQ,SAClEjB,EAAAA,EAAAA,GAAyF,QAAzFiC,EAA+C,qCAAkC,aAA5ChB,EAAAA,gBAK3CiB,EACAC,GAEAnC,EAAAA,EAAAA,GAwCM,MAxCNoC,EAwCM,WAvCJpC,EAAAA,EAAAA,GAIwG,SAJjGc,KAAK,UACVV,KAAK,OACLW,YAAY,Y,uCACHE,EAAAA,SAASoB,QAAO,GACzBtC,MAAM,iG,iBADGkB,EAAAA,SAASoB,YAGlBC,EAAAA,EAAAA,IAOIC,EAAAA,C,WANStB,EAAAA,Q,uCAAAA,EAAAA,QAAO,GAChBuB,KAAK,SACJC,YAAY,EACZC,QAASzB,EAAAA,UACVF,YAAY,oBACX4B,QAAS1B,EAAAA,kB,qDAUhBjB,EAAAA,EAAAA,GAIwG,SAJjGc,KAAK,WACVV,KAAK,OACLW,YAAY,Y,uCACHE,EAAAA,SAAS2B,SAAQ,GAC1B7C,MAAM,iG,iBADGkB,EAAAA,SAAS2B,aAAQ,SAG5B5C,EAAAA,EAAAA,GAIwG,SAJjGc,KAAK,OACVV,KAAK,OACLW,YAAY,S,uCACHE,EAAAA,SAAS4B,KAAI,GACtB9C,MAAM,iG,iBADGkB,EAAAA,SAAS4B,SAAI,SAGxB7C,EAAAA,EAAAA,GAIwG,SAJjGc,KAAK,WACVV,KAAK,OACLW,YAAY,gB,uCACHE,EAAAA,SAAS6B,SAAQ,GAC1B/C,MAAM,iG,iBADGkB,EAAAA,SAAS6B,cAItBC,EACAC,GAAoG,SACpGhD,EAAAA,EAAAA,GAAiF,SAA1EiD,GAAG,WAAWnC,KAAK,WAAWV,KAAK,W,uCAAoBa,EAAAA,SAASiC,SAAQ,I,iBAAjBjC,EAAAA,SAASiC,YACvEC,GAEAnD,EAAAA,EAAAA,GAYM,MAZNoD,EAYM,WAXJpD,EAAAA,EAAAA,GAIuG,SAJhGc,KAAK,UACVV,KAAK,OACLW,YAAY,W,uCACHE,EAAAA,SAASoC,QAAO,GACzBtD,MAAM,gG,iBADGkB,EAAAA,SAASoC,YAAO,SAG3BrD,EAAAA,EAAAA,GAIuG,SAJhGc,KAAK,OACVV,KAAK,OACLW,YAAY,O,uCACHE,EAAAA,SAASqC,KAAI,GACtBvD,MAAM,gG,iBADGkB,EAAAA,SAASqC,WAItBtD,EAAAA,EAAAA,GAkBM,MAlBNuD,EAkBM,CAjBJC,EAGWvC,EAAAA,gBAAa,WAAxBZ,EAAAA,EAAAA,IAMM,MANNoD,EAMM,CALJC,GACA1D,EAAAA,EAAAA,GAGK,KAHL2D,EAGK,UAHgC,oEAEnC,OAA6B,kBAAxB1C,EAAAA,oBAAkB,wBAGhBA,EAAAA,kBAAe,WAA1BZ,EAAAA,EAAAA,IAMM,MANNuD,EAMM,CALJC,GACA7D,EAAAA,EAAAA,GAGM,YAFJ8D,EACS7C,EAAAA,SAASiC,WAAQ,WAA1B7C,EAAAA,EAAAA,IAAoJ,IAApJ0D,EAA4C,2CAAuC,QAAG9C,EAAAA,SAASE,OAAQ,4CAAyC,2CAYtJ6C,GAGS,S,0CAczB,GACIlD,KAAK,YACLmD,WAAY,CACVC,YAAWA,EAAAA,GAEbC,OACE,MAAO,CACLC,mBAAoB,GACpBC,eAAe,EACfC,iBAAiB,EACjBC,YAAY,EACZC,UAAU,EACVC,UAAU,EACVC,KAAM,GACNC,WAAY,GACZC,UAAW,GACXC,iBAAkB,CACZC,UAAW,uKACXC,OAAQ,iLACRrC,QAAS,4CACTsC,eAAgB,8BAEtBC,QAAS,CACPxD,MAAO,GACPyD,MAAO,IAETC,SAAU,CAAC,EAEf,EACAC,UACEC,KAAKC,aACLD,KAAKE,WACP,EACAC,MAAO,CACLb,aACEU,KAAKb,SAAYa,KAAKV,YAAcU,KAAKX,MAA4B,IAAnBW,KAAKV,YAAiC,IAAbU,KAAKX,IAClF,GAEFe,QAAS,CACPC,mBACE,IACE,MAAM,OAACC,EAAM,KAAExB,SAAcyB,EAAAA,EAAAA,WAAyB,YACtD,GAAc,KAAVD,EACF,IAAI,IAAIV,KAAWd,EACjBkB,KAAKT,UAAUiB,KAAK,CAClBpE,MAAOwD,EAAQhC,GACfiC,MAAOD,EAAQa,OAMvB,CAFE,MAAMC,GACNC,QAAQC,IAAIF,EAAEG,SAChB,CACF,EACAR,iBAAiBK,GACfA,EAAEI,iBAECd,KAAKe,SAASf,KAAKF,SAASjE,aAAemE,KAAKe,SAASf,KAAKF,SAAS/D,YAAciE,KAAKe,SAASf,KAAKF,SAASzD,YAClH2D,KAAKe,SAASf,KAAKF,SAAShE,QAAUkE,KAAKe,SAASf,KAAKJ,UAEzDI,KAAKF,SAASkB,SAAWhB,KAAKX,KAC9BW,KAAKF,SAASmB,WAAajB,KAAKJ,QAChCsB,EAAAA,EAAAA,aAA2BlB,KAAKF,UAAU,GAAMqB,MAAKC,IAClC,MAAdA,EAAId,QACHN,KAAKhB,eAAgB,EACrBgB,KAAKf,iBAAkB,EACvBoC,YAAW,KACPrB,KAAKf,iBAAkB,EACvBe,KAAKE,WAAU,GAChB,OAELF,KAAKhB,eAAgB,EACrBgB,KAAKf,iBAAkB,EACvBoC,YAAW,KACPrB,KAAKhB,eAAgB,CAAI,GAC1B,KACHgB,KAAKjB,mBAAqBqC,EAAItC,KAChC,MAGAkB,KAAKhB,eAAgB,EACrBgB,KAAKf,iBAAkB,EACvBoC,YAAW,KACPrB,KAAKhB,eAAgB,CAAI,GAC1B,KACHgB,KAAKjB,mBAAqB,0BAEhC,EACAgC,SAAS3E,GACL,MAAa,IAATA,SAEckF,IAAVlF,GAEU,OAAVA,EAGZ,EACA8D,YACEF,KAAKF,SAAW,CAERjE,WAAY,GACZE,UAAW,GACXC,MAAO,GACPF,MAAO,GACPyF,OAAQ,GACRC,UAAW,GACXnF,UAAW,GACX2E,SAAU,GAEVhE,QAAS,GACTQ,KAAM,GACND,SAAU,GACVE,SAAU,GAEVQ,KAAM,GACND,QAAS,GACTH,SAAU,GACVoD,WAAY,GACZQ,MAAO,GACPC,OAAQ,IAEhB1B,KAAKX,KAAO,EACd,I,QCpTN,MAAMsC,GAA2B,OAAgB,EAAQ,CAAC,CAAC,SAASC,GAAQ,CAAC,YAAY,qBAEzF,O","sources":["webpack://iristravel_v3/./src/views/Clients/NewClient.vue","webpack://iristravel_v3/./src/views/Clients/NewClient.vue?9d0c"],"sourcesContent":["<template>\r\n    <section class=\"bg-white text-white pt-4\">\r\n         <!-- <figure>\r\n            <img src=\"@/assets/img/singlepole-top-blue.png\" alt=\"\" />\r\n         </figure> -->\r\n\r\n         <div class=\"bg-blue_1 pb-12\">\r\n            <h2 class=\"text-3xl py-6 text-white \r\n            md:text-6xl\r\n            lg:text-4xl\">- Crear nueva cuenta -</h2>            \r\n\r\n            <div class=\"container border-2 rounded border-white p-5 m-auto\">\r\n              <form class=\"flex gap-x-3 gap-y-6 flex-wrap shadow-round bg-dark_blue_1 text-xl px-10 py-8\"\r\n              @submit=\"submitForm\">        \r\n                <h3 class=\"w-full text-left border-b font-bold text-lg md:text-2xl pb-2\">Informacion Personal</h3>\r\n                \r\n                <!-- Informacion Personal -->\r\n                <div class=\"flex md:flex-wrap gap-y-6 gap-x-3 w-full flex-col md:flex-row\">\r\n                  <input name=\"first_name\" \r\n                    type=\"text\" \r\n                    placeholder=\"Nombre *\"\r\n                    required\r\n                    v-model=\"formData.first_name\" \r\n                    class=\"w-full md:w-5/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">                 \r\n\r\n                  <input name=\"email\" \r\n                    type=\"email\" \r\n                    placeholder=\"E-Mail *\" \r\n                    required\r\n                    v-model=\"formData.email\" \r\n                    class=\"w-full md:w-4/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n\r\n                  <input name=\"last_name\" \r\n                    type=\"text\" \r\n                    placeholder=\"Apellido *\"\r\n                    required\r\n                    v-model=\"formData.last_name\" \r\n                    class=\"w-full md:w-5/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">                                     \r\n\r\n                  <input name=\"phone\" \r\n                    type=\"text\" \r\n                    placeholder=\"Teléfono\" \r\n                    v-model=\"formData.phone\" \r\n                    class=\"w-full md:w-4/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n\r\n                    <div class=\"flex flex-col items-start w-full\">       \r\n                      <h4 class=\"w-full text-left pb-3\">Genero *</h4>            \r\n                      <div class=\"flex border items-start gap-x-6 p-3\">\r\n                        <label>\r\n                          <input name=\"gender\" type=\"radio\" value=\"1\" v-model=\"formData.gender_id\">\r\n                          <span class=\"text-base md:text-xl px-1 md:px-2\">Masculino</span>\r\n                        </label>                    \r\n                        <label>\r\n                          <input name=\"gender\" type=\"radio\" value=\"2\" v-model=\"formData.gender_id\">                \r\n                          <span class=\"text-base md:text-xl px-1 md:px-2\">Femenino</span>\r\n                        </label>\r\n                      </div>\r\n                  </div>\r\n                </div>\r\n\r\n                <h3 class=\"w-full text-left border-b font-bold text-lg md:text-2xl pb-2\">Seguridad</h3>\r\n                <!-- Seguridad -->\r\n                <div class=\"flex flex-col items-center md:flex-row gap-x-3 gap-y-6 md:gap-y-0 w-full md:w-auto text-left font-bold text-2xl pb-2\">\r\n                  <input name=\"password\" \r\n                    :type=\"(showpass) ? 'text' : 'password'\" \r\n                    placeholder=\"Contraseña *\"\r\n                    required\r\n                    v-model=\"pass\" \r\n                    class=\"w-3/10 border text-orange_1 bg-transparent text-left px-6 py-2\">    \r\n\r\n                  \r\n                    <input name=\"repassword\" \r\n                      :type=\"(showpass) ? 'text' : 'password'\" \r\n                      placeholder=\"Repetir Contraseña *\"\r\n                      required\r\n                      v-model=\"repassword\"                     \r\n                      class=\"w-full md:w-3/10 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">                      \r\n                    <div class=\"flex items-center gap-x-4\">                    \r\n                      <button type=\"button\" @click=\"showpass=!showpass\" v-show=\"!showpass\"><i class=\"fas fa-eye-slash\"></i></button>\r\n                      <button type=\"button\" @click=\"showpass=!showpass\" v-show=\"showpass\"><i class=\"fas fa-eye\"></i></button>\r\n                      <small class=\"text-red-700\" v-show=\"!samepass\">Las contraseñas deben ser iguales.</small>\r\n                    <!-- <div class=\"flex flex-nowrap gap-6 \"></div> -->\r\n                  </div>\r\n                </div>\r\n\r\n                <hr>\r\n                <h3 class=\"w-full text-left border-b font-bold text-lg md:text-2xl pb-2\">Direcciones</h3>\r\n                <!-- Direcciones -->\r\n                <div class=\"flex flex-wrap gap-y-6 gap-x-3 w-full\">\r\n                  <input name=\"address\" \r\n                    type=\"text\" \r\n                    placeholder=\"Dirección\" \r\n                    v-model=\"formData.address\" \r\n                    class=\"w-full md:w-8/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n                    \r\n                    <Multiselect\r\n                        v-model=\"country\" \r\n                        mode=\"single\"\r\n                        :searchable=\"true\"                                               \r\n                        :options=\"countries\"\r\n                        placeholder=\"Seleccione País *\"     \r\n                        :classes=\"select_style_opt\"\r\n                      />\r\n                  <!-- <model-select :options=\"countries\"\r\n                        v-model=\"country\"\r\n                        placeholder=\"Seleccione País *\"\r\n                        required\r\n                        class=\"border border-white text-orange_1 bg-dark_blue_1 font-500 text-xl text-left px-6 py-3\"\r\n                        >\r\n                  </model-select> -->\r\n\r\n                  <input name=\"province\" \r\n                    type=\"text\" \r\n                    placeholder=\"Provincia\" \r\n                    v-model=\"formData.province\" \r\n                    class=\"w-full md:w-4/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n\r\n                  <input name=\"city\" \r\n                    type=\"text\" \r\n                    placeholder=\"Ciudad\" \r\n                    v-model=\"formData.city\" \r\n                    class=\"w-full md:w-4/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n                  \r\n                  <input name=\"zip_code\" \r\n                    type=\"text\" \r\n                    placeholder=\"Codigo Postal\" \r\n                    v-model=\"formData.zip_code\" \r\n                    class=\"w-full md:w-4/12 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">                   \r\n                </div>\r\n\r\n                <hr>                \r\n                <h3 class=\"w-full text-left border-b font-bold text-lg md:text-2xl pb-2\">Informacion de Agencia</h3>\r\n                <input id=\"is_agent\" name=\"is_agent\" type=\"checkbox\" v-model=\"formData.is_agent\">\r\n                <label for=\"is_agent\">Agente de viaje</label>\r\n                <!-- Informacion de Agencia -->\r\n                <div class=\"flex gap-3 w-full\">\r\n                  <input name=\"company\" \r\n                    type=\"text\" \r\n                    placeholder=\"Compañía\" \r\n                    v-model=\"formData.company\" \r\n                    class=\"w-full md:w-2/7 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n\r\n                  <input name=\"iata\" \r\n                    type=\"text\" \r\n                    placeholder=\"IATA\" \r\n                    v-model=\"formData.iata\" \r\n                    class=\"w-full md:w-2/7 border text-orange_1 bg-dark_blue_1 text-left px-6 py-2 text-base md:text-xl\">\r\n                </div>\r\n\r\n                <div class=\"flex flex-col text-left w-full py-6\">\r\n                  <small>\r\n                    Los campos obligatorios marcados con un (*) deben ser rellenados.\r\n                  </small>\r\n                  <div v-if=\"error_message\" class=\"error-message my-3 items-center gap-3 px-4\">\r\n                    <span class=\"text-4xl\"><i class=\"fa fa-times-circle\"></i></span> \r\n                    <h5 class=\"text-xl self-center px-2\">\r\n                      Error enviando informacion. No se pudo crear el nuevo usuario\r\n                      <p>{{error_message_text}}</p>\r\n                    </h5>\r\n                  </div>\r\n                  <div v-if=\"success_message\" class=\"success-message my-3 items-center gap-3 px-4\">\r\n                    <span class=\"text-4xl\"><i class=\"fa fa-check-circle\"></i></span> \r\n                    <div>\r\n                      <h5 class=\"text-xl self-center\">Se creó el usuario exitosamente!!!.</h5>\r\n                      <p v-if=\"formData.is_agent\" class=\"text-lg\">Se ha enviado un correo a la direccion {{ formData.email }} para que el usuario verifique su cuenta.</p>\r\n                    </div>\r\n                  </div>\r\n                </div>\r\n                <!-- <div class=\"w-full flex gap-3 pt-10\" @click=\"activeTerm = !activeTerm\">  \r\n                  <span class=\"cursor-pointer border text-orange_1 bg-dark_blue_1 px-2 py-1\"\r\n                  :class=\"(activeTerm) ? 'text-orange_1' : 'text-dark_blue_1'\">\r\n                    <i class=\"fas fa-check\"></i>\r\n                  </span>\r\n                  <label class=\"self-center\" for=\"term\">Term and condition</label>\r\n                </div> -->\r\n\r\n                <button type=\"submit\" \r\n                  class=\"w-full md:w-auto uppercase bg-orange_1 text-white border border-orange_1 text-xl font-bold ml-auto px-12 py-1 hover:bg-dark_blue_1 hover:text-orange_1\">\r\n                  Enviar\r\n                </button>\r\n              </form>\r\n            </div>\r\n         </div>\r\n         \r\n    </section>\r\n</template>\r\n<script>\r\nimport Multiselect from '@vueform/multiselect'\r\nimport '@vueform/multiselect/themes/default.css'\r\n\r\nimport Authorization from \"@/services/user/auth.service\";\r\nimport ClientService from \"@/services/user/client.service\";\r\n\r\nexport default {\r\n    name:'NewClient',\r\n    components: {\r\n      Multiselect\r\n    },\r\n    data() {\r\n      return {\r\n        error_message_text: '',\r\n        error_message: false,\r\n        success_message: false,\r\n        activeTerm: false,    \r\n        samepass: true,            \r\n        showpass: false,     \r\n        pass: '',               \r\n        repassword: '',        \r\n        countries: [],\r\n        select_style_opt: {\r\n              container: 'relative w-full md:w-4/12 flex text-orange_1 items-center justify-end box-border cursor-pointer border border-white bg-transparent text-xl leading-snug outline-none',\r\n              search: 'w-full md:w-4/12 absolute inset-0 outline-none focus:ring-0 appearance-none box-border border-8 border-transparent text-base font-sans bg-transparent pl-2 rtl:pl-0 rtl:pr-3.5',\r\n              options: 'flex flex-col p-0 m-0 list-none text-blue',\r\n              optionSelected: 'text-white bg-light_gray_1'\r\n          },\r\n        country: {\r\n          value: '',\r\n          label: ''\r\n        },\r\n        formData: {},\r\n      }\r\n    },    \r\n    created() {\r\n      this.getCountry()\r\n      this.clearForm()\r\n    },   \r\n    watch: {\r\n      repassword() {        \r\n        this.samepass = (this.repassword == this.pass || (this.repassword == '' && this.pass == ''))\r\n      }      \r\n    },    \r\n    methods: {\r\n      async getCountry() {\r\n        try {\r\n          const {status, data} = await Authorization.checkLogin('/country')          \r\n          if (status == 200) {\r\n            for(let country of data) {\r\n              this.countries.push({\r\n                value: country.id,\r\n                label: country.alias\r\n              })\r\n            }\r\n          }\r\n        } catch(e) {\r\n          console.log(e.response);\r\n        }\r\n      },\r\n      async submitForm(e) {\r\n        e.preventDefault();\r\n        // VALIDATE FORM\r\n        if(this.validate(this.formData.first_name) || this.validate(this.formData.last_name) || this.validate(this.formData.gender_id) ||\r\n          this.validate(this.formData.email) || this.validate(this.country))\r\n        { \r\n          this.formData.password = this.pass\r\n          this.formData.country_id = this.country          \r\n          ClientService.addUpdClient(this.formData, true).then(res => {                     \r\n            if(res.status == 'OK') {                \r\n                this.error_message = false\r\n                this.success_message = true                \r\n                setTimeout(() => {\r\n                    this.success_message = false                    \r\n                    this.clearForm()\r\n                }, 8000); \r\n            } else {\r\n              this.error_message = true\r\n              this.success_message = false\r\n              setTimeout(() => {\r\n                  this.error_message = false\r\n              }, 8000); \r\n              this.error_message_text = res.data//'El email del usuario que desea crear ya esta existe.'\r\n            }                  \r\n          })\r\n        } else {\r\n            this.error_message = true\r\n            this.success_message = false\r\n            setTimeout(() => {\r\n                this.error_message = false\r\n            }, 8000); \r\n            this.error_message_text = 'Faltan datos por llenar'\r\n        } \r\n      },\r\n      validate(value) {\r\n          if (value == '')\r\n              return false\r\n          else if(value === undefined)\r\n              return false\r\n          else if(value === null)\r\n              return false\r\n          return true\r\n      },  \r\n      clearForm() {\r\n        this.formData = {\r\n            //general info\r\n                first_name: '',\r\n                last_name: '',\r\n                phone: '',\r\n                email: '',\r\n                parent: '',\r\n                parent_id: '',\r\n                gender_id: '',                \r\n                password: '',                \r\n            //location\r\n                address: '',\r\n                city: '',\r\n                province: '',\r\n                zip_code: '',\r\n            //agency\r\n                iata: '',\r\n                company: '',\r\n                is_agent: '',                \r\n                country_id: '',                \r\n                roles: [],\r\n                margin: []\r\n        }\r\n        this.pass = ''\r\n      }  \r\n    }      \r\n}\r\n</script>\r\n<style scoped>  \r\n  input[name=\"password\"] {\r\n    -webkit-text-security:disc\r\n  }\r\n</style>","import { render } from \"./NewClient.vue?vue&type=template&id=50e45546&scoped=true\"\nimport script from \"./NewClient.vue?vue&type=script&lang=js\"\nexport * from \"./NewClient.vue?vue&type=script&lang=js\"\n\nimport \"./NewClient.vue?vue&type=style&index=0&id=50e45546&scoped=true&lang=css\"\n\nimport exportComponent from \"D:\\\\Proyects\\\\Iristravel\\\\Iristravel_frontend\\\\iristravel_v3\\\\node_modules\\\\vue-loader\\\\dist\\\\exportHelper.js\"\nconst __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',\"data-v-50e45546\"]])\n\nexport default __exports__"],"names":["class","_createElementVNode","_hoisted_17","_hoisted_19","for","type","_createElementBlock","_hoisted_1","_hoisted_2","_hoisted_3","_hoisted_4","onSubmit","$options","_hoisted_5","_hoisted_6","name","placeholder","required","$data","first_name","email","last_name","phone","_hoisted_7","_hoisted_8","_hoisted_9","value","gender_id","_hoisted_10","_hoisted_11","_hoisted_12","_hoisted_13","_hoisted_16","onClick","_hoisted_21","_hoisted_22","_hoisted_23","_hoisted_24","address","_createVNode","_component_Multiselect","mode","searchable","options","classes","province","city","zip_code","_hoisted_25","_hoisted_26","id","is_agent","_hoisted_27","_hoisted_28","company","iata","_hoisted_29","_hoisted_30","_hoisted_31","_hoisted_32","_hoisted_33","_hoisted_34","_hoisted_35","_hoisted_36","_hoisted_37","_hoisted_38","components","Multiselect","data","error_message_text","error_message","success_message","activeTerm","samepass","showpass","pass","repassword","countries","select_style_opt","container","search","optionSelected","country","label","formData","created","this","getCountry","clearForm","watch","methods","async","status","Authorization","push","alias","e","console","log","response","preventDefault","validate","password","country_id","ClientService","then","res","setTimeout","undefined","parent","parent_id","roles","margin","__exports__","render"],"sourceRoot":""}
+<h1 align="center">
+	<br>
+	<br>
+	<img width="320" src="media/logo.svg" alt="Chalk">
+	<br>
+	<br>
+	<br>
+</h1>
+
+> Terminal string styling done right
+
+[![Build Status](https://travis-ci.org/chalk/chalk.svg?branch=master)](https://travis-ci.org/chalk/chalk) [![Coverage Status](https://coveralls.io/repos/github/chalk/chalk/badge.svg?branch=master)](https://coveralls.io/github/chalk/chalk?branch=master) [![npm dependents](https://badgen.net/npm/dependents/chalk)](https://www.npmjs.com/package/chalk?activeTab=dependents) [![Downloads](https://badgen.net/npm/dt/chalk)](https://www.npmjs.com/package/chalk) [![](https://img.shields.io/badge/unicorn-approved-ff69b4.svg)](https://www.youtube.com/watch?v=9auOCbH5Ns4) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) ![TypeScript-ready](https://img.shields.io/npm/types/chalk.svg) [![run on repl.it](https://repl.it/badge/github/chalk/chalk)](https://repl.it/github/chalk/chalk)
+
+<img src="https://cdn.jsdelivr.net/gh/chalk/ansi-styles@8261697c95bf34b6c7767e2cbe9941a851d59385/screenshot.svg" width="900">
+
+<br>
+
+---
+
+<div align="center">
+	<p>
+		<p>
+			<sup>
+				Sindre Sorhus' open source work is supported by the community on <a href="https://github.com/sponsors/sindresorhus">GitHub Sponsors</a> and <a href="https://stakes.social/0x44d871aebF0126Bf646753E2C976Aa7e68A66c15">Dev</a>
+			</sup>
+		</p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://standardresume.co/tech">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
+		<br>
+		<br>
+		<a href="https://retool.com/?utm_campaign=sindresorhus">
+			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="230"/>
+		</a>
+		<br>
+		<br>
+		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=chalk&utm_source=github">
+			<div>
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+			</div>
+			<b>All your environment variables, in one place</b>
+			<div>
+				<span>Stop struggling with scattered API keys, hacking together home-brewed tools,</span>
+				<br>
+				<span>and avoiding access controls. Keep your team and servers in sync with Doppler.</span>
+			</div>
+		</a>
+		<br>
+		<a href="https://uibakery.io/?utm_source=chalk&utm_medium=sponsor&utm_campaign=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/uibakery-logo.jpg" width="270" alt="UI Bakery">
+			</div>
+		</a>
+	</p>
+</div>
+
+---
+
+<br>
+
+## Highlights
+
+- Expressive API
+- Highly performant
+- Ability to nest styles
+- [256/Truecolor color support](#256-and-truecolor-color-support)
+- Auto-detects color support
+- Doesn't extend `String.prototype`
+- Clean and focused
+- Actively maintained
+- [Used by ~50,000 packages](https://www.npmjs.com/browse/depended/chalk) as of January 1, 2020
+
+## Install
+
+```console
+$ npm install chalk
+```
+
+## Usage
+
+```js
+const chalk = require('chalk');
+
+console.log(chalk.blue('Hello world!'));
+```
+
+Chalk comes with an easy to use composable API where you just chain and nest the styles you want.
+
+```js
+const chalk = require('chalk');
+const log = console.log;
+
+// Combine styled and normal strings
+log(chalk.blue('Hello') + ' World' + chalk.red('!'));
+
+// Compose multiple styles using the chainable API
+log(chalk.blue.bgRed.bold('Hello world!'));
+
+// Pass in multiple arguments
+log(chalk.blue('Hello', 'World!', 'Foo', 'bar', 'biz', 'baz'));
+
+// Nest styles
+log(chalk.red('Hello', chalk.underline.bgBlue('world') + '!'));
+
+// Nest styles of the same type even (color, underline, background)
+log(chalk.green(
+	'I am a green line ' +
+	chalk.blue.underline.bold('with a blue substring') +
+	' that becomes green again!'
+));
+
+// ES2015 template literal
+log(`
+CPU: ${chalk.red('90%')}
+RAM: ${chalk.green('40%')}
+DISK: ${chalk.yellow('70%')}
+`);
+
+// ES2015 tagged template literal
+log(chalk`
+CPU: {red ${cpu.totalPercent}%}
+RAM: {green ${ram.used / ram.total * 100}%}
+DISK: {rgb(255,131,0) ${disk.used / disk.total * 100}%}
+`);
+
+// Use RGB colors in terminal emulators that support it.
+log(chalk.keyword('orange')('Yay for orange colored text!'));
+log(chalk.rgb(123, 45, 67).underline('Underlined reddish color'));
+log(chalk.hex('#DEADED').bold('Bold gray!'));
+```
+
+Easily define your own themes:
+
+```js
+const chalk = require('chalk');
+
+const error = chalk.bold.red;
+const warning = chalk.keyword('orange');
+
+console.log(error('Error!'));
+console.log(warning('Warning!'));
+```
+
+Take advantage of console.log [string substitution](https://nodejs.org/docs/latest/api/console.html#console_console_log_data_args):
+
+```js
+const name = 'Sindre';
+console.log(chalk.green('Hello %s'), name);
+//=> 'Hello Sindre'
+```
+
+## API
+
+### chalk.`<style>[.<style>...](string, [string...])`
+
+Example: `chalk.red.bold.underline('Hello', 'world');`
+
+Chain [styles](#styles) and call the last one as a method with a string argument. Order doesn't matter, and later styles take precedent in case of a conflict. This simply means that `chalk.red.yellow.green` is equivalent to `chalk.green`.
+
+Multiple arguments will be separated by space.
+
+### chalk.level
+
+Specifies the level of color support.
+
+Color support is automatically detected, but you can override it by setting the `level` property. You should however only do this in your own code as it applies globally to all Chalk consumers.
+
+If you need to change this in a reusable module, create a new instance:
+
+```js
+const ctx = new chalk.Instance({level: 0});
+```
+
+| Level | Description |
+| :---: | :--- |
+| `0` | All colors disabled |
+| `1` | Basic color support (16 colors) |
+| `2` | 256 color support |
+| `3` | Truecolor support (16 million colors) |
+
+### chalk.supportsColor
+
+Detect whether the terminal [supports color](https://github.com/chalk/supports-color). Used internally and handled for you, but exposed for convenience.
+
+Can be overridden by the user with the flags `--color` and `--no-color`. For situations where using `--color` is not possible, use the environment variable `FORCE_COLOR=1` (level 1), `FORCE_COLOR=2` (level 2), or `FORCE_COLOR=3` (level 3) to forcefully enable color, or `FORCE_COLOR=0` to forcefully disable. The use of `FORCE_COLOR` overrides all other color support checks.
+
+Explicit 256/Truecolor mode can be enabled using the `--color=256` and `--color=16m` flags, respectively.
+
+### chalk.stderr and chalk.stderr.supportsColor
+
+`chalk.stderr` contains a separate instance configured with color support detected for `stderr` stream instead of `stdout`. Override rules from `chalk.supportsColor` apply to this too. `chalk.stderr.supportsColor` is exposed for convenience.
+
+## Styles
+
+### Modifiers
+
+- `reset` - Resets the current color chain.
+- `bold` - Make text bold.
+- `dim` - Emitting only a small amount of light.
+- `italic` - Make text italic. *(Not widely supported)*
+- `underline` - Make text underline. *(Not widely supported)*
+- `inverse`- Inverse background and foreground colors.
+- `hidden` - Prints the text, but makes it invisible.
+- `strikethrough` - Puts a horizontal line through the center of the text. *(Not widely supported)*
+- `visible`- Prints the text only when Chalk has a color level > 0. Can be useful for things that are purely cosmetic.
+
+### Colors
+
+- `black`
+- `red`
+- `green`
+- `yellow`
+- `blue`
+- `magenta`
+- `cyan`
+- `white`
+- `blackBright` (alias: `gray`, `grey`)
+- `redBright`
+- `greenBright`
+- `yellowBright`
+- `blueBright`
+- `magentaBright`
+- `cyanBright`
+- `whiteBright`
+
+### Background colors
+
+- `bgBlack`
+- `bgRed`
+- `bgGreen`
+- `bgYellow`
+- `bgBlue`
+- `bgMagenta`
+- `bgCyan`
+- `bgWhite`
+- `bgBlackBright` (alias: `bgGray`, `bgGrey`)
+- `bgRedBright`
+- `bgGreenBright`
+- `bgYellowBright`
+- `bgBlueBright`
+- `bgMagentaBright`
+- `bgCyanBright`
+- `bgWhiteBright`
+
+## Tagged template literal
+
+Chalk can be used as a [tagged template literal](https://exploringjs.com/es6/ch_template-literals.html#_tagged-template-literals).
+
+```js
+const chalk = require('chalk');
+
+const miles = 18;
+const calculateFeet = miles => miles * 5280;
+
+console.log(chalk`
+	There are {bold 5280 feet} in a mile.
+	In {bold ${miles} miles}, there are {green.bold ${calculateFeet(miles)} feet}.
+`);
+```
+
+Blocks are delimited by an opening curly brace (`{`), a style, some content, and a closing curly brace (`}`).
+
+Template styles are chained exactly like normal Chalk styles. The following three statements are equivalent:
+
+```js
+console.log(chalk.bold.rgb(10, 100, 200)('Hello!'));
+console.log(chalk.bold.rgb(10, 100, 200)`Hello!`);
+console.log(chalk`{bold.rgb(10,100,200) Hello!}`);
+```
+
+Note that function styles (`rgb()`, `hsl()`, `keyword()`, etc.) may not contain spaces between parameters.
+
+All interpolated values (`` chalk`${foo}` ``) are converted to strings via the `.toString()` method. All curly braces (`{` and `}`) in interpolated value strings are escaped.
+
+## 256 and Truecolor color support
+
+Chalk supports 256 colors and [Truecolor](https://gist.github.com/XVilka/8346728) (16 million colors) on supported terminal apps.
+
+Colors are downsampled from 16 million RGB values to an ANSI color format that is supported by the terminal emulator (or by specifying `{level: n}` as a Chalk option). For example, Chalk configured to run at level 1 (basic color support) will downsample an RGB value of #FF0000 (red) to 31 (ANSI escape for red).
+
+Examples:
+
+- `chalk.hex('#DEADED').underline('Hello, world!')`
+- `chalk.keyword('orange')('Some orange text')`
+- `chalk.rgb(15, 100, 204).inverse('Hello!')`
+
+Background versions of these models are prefixed with `bg` and the first level of the module capitalized (e.g. `keyword` for foreground colors and `bgKeyword` for background colors).
+
+- `chalk.bgHex('#DEADED').underline('Hello, world!')`
+- `chalk.bgKeyword('orange')('Some orange text')`
+- `chalk.bgRgb(15, 100, 204).inverse('Hello!')`
+
+The following color models can be used:
+
+- [`rgb`](https://en.wikipedia.org/wiki/RGB_color_model) - Example: `chalk.rgb(255, 136, 0).bold('Orange!')`
+- [`hex`](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) - Example: `chalk.hex('#FF8800').bold('Orange!')`
+- [`keyword`](https://www.w3.org/wiki/CSS/Properties/color/keywords) (CSS keywords) - Example: `chalk.keyword('orange').bold('Orange!')`
+- [`hsl`](https://en.wikipedia.org/wiki/HSL_and_HSV) - Example: `chalk.hsl(32, 100, 50).bold('Orange!')`
+- [`hsv`](https://en.wikipedia.org/wiki/HSL_and_HSV) - Example: `chalk.hsv(32, 100, 100).bold('Orange!')`
+- [`hwb`](https://en.wikipedia.org/wiki/HWB_color_model) - Example: `chalk.hwb(32, 0, 50).bold('Orange!')`
+- [`ansi`](https://en.wikipedia.org/wiki/ANSI_escape_code#3/4_bit) - Example: `chalk.ansi(31).bgAnsi(93)('red on yellowBright')`
+- [`ansi256`](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit) - Example: `chalk.bgAnsi256(194)('Honeydew, more or less')`
+
+## Windows
+
+If you're on Windows, do yourself a favor and use [Windows Terminal](https://github.com/microsoft/terminal) instead of `cmd.exe`.
+
+## Origin story
+
+[colors.js](https://github.com/Marak/colors.js) used to be the most popular string styling module, but it has serious deficiencies like extending `String.prototype` which causes all kinds of [problems](https://github.com/yeoman/yo/issues/68) and the package is unmaintained. Although there are other packages, they either do too much or not enough. Chalk is a clean and focused alternative.
+
+## chalk for enterprise
+
+Available as part of the Tidelift Subscription.
+
+The maintainers of chalk and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/npm-chalk?utm_source=npm-chalk&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
+
+## Related
+
+- [chalk-cli](https://github.com/chalk/chalk-cli) - CLI for this module
+- [ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
+- [supports-color](https://github.com/chalk/supports-color) - Detect whether a terminal supports color
+- [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes
+- [strip-ansi-stream](https://github.com/chalk/strip-ansi-stream) - Strip ANSI escape codes from a stream
+- [has-ansi](https://github.com/chalk/has-ansi) - Check if a string has ANSI escape codes
+- [ansi-regex](https://github.com/chalk/ansi-regex) - Regular expression for matching ANSI escape codes
+- [wrap-ansi](https://github.com/chalk/wrap-ansi) - Wordwrap a string with ANSI escape codes
+- [slice-ansi](https://github.com/chalk/slice-ansi) - Slice a string with ANSI escape codes
+- [color-convert](https://github.com/qix-/color-convert) - Converts colors between different models
+- [chalk-animation](https://github.com/bokub/chalk-animation) - Animate strings in the terminal
+- [gradient-string](https://github.com/bokub/gradient-string) - Apply color gradients to strings
+- [chalk-pipe](https://github.com/LitoMore/chalk-pipe) - Create chalk style schemes with simpler style strings
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal
+
+## Maintainers
+
+- [Sindre Sorhus](https://github.com/sindresorhus)
+- [Josh Junon](https://github.com/qix-)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           'use strict';
+
+const inherits = require('inherits');
+
+const bignum = require('bn.js');
+const DecoderBuffer = require('../base/buffer').DecoderBuffer;
+const Node = require('../base/node');
+
+// Import DER constants
+const der = require('../constants/der');
+
+function DERDecoder(entity) {
+  this.enc = 'der';
+  this.name = entity.name;
+  this.entity = entity;
+
+  // Construct base tree
+  this.tree = new DERNode();
+  this.tree._init(entity.body);
+}
+module.exports = DERDecoder;
+
+DERDecoder.prototype.decode = function decode(data, options) {
+  if (!DecoderBuffer.isDecoderBuffer(data)) {
+    data = new DecoderBuffer(data, options);
+  }
+
+  return this.tree._decode(data, options);
+};
+
+// Tree methods
+
+function DERNode(parent) {
+  Node.call(this, 'der', parent);
+}
+inherits(DERNode, Node);
+
+DERNode.prototype._peekTag = function peekTag(buffer, tag, any) {
+  if (buffer.isEmpty())
+    return false;
+
+  const state = buffer.save();
+  const decodedTag = derDecodeTag(buffer, 'Failed to peek tag: "' + tag + '"');
+  if (buffer.isError(decodedTag))
+    return decodedTag;
+
+  buffer.restore(state);
+
+  return decodedTag.tag === tag || decodedTag.tagStr === tag ||
+    (decodedTag.tagStr + 'of') === tag || any;
+};
+
+DERNode.prototype._decodeTag = function decodeTag(buffer, tag, any) {
+  const decodedTag = derDecodeTag(buffer,
+    'Failed to decode tag of "' + tag + '"');
+  if (buffer.isError(decodedTag))
+    return decodedTag;
+
+  let len = derDecodeLen(buffer,
+    decodedTag.primitive,
+    'Failed to get length of "' + tag + '"');
+
+  // Failure
+  if (buffer.isError(len))
+    return len;
+
+  if (!any &&
+      decodedTag.tag !== tag &&
+      decodedTag.tagStr !== tag &&
+      decodedTag.tagStr + 'of' !== tag) {
+    return buffer.error('Failed to match tag: "' + tag + '"');
+  }
+
+  if (decodedTag.primitive || len !== null)
+    return buffer.skip(len, 'Failed to match body of: "' + tag + '"');
+
+  // Indefinite length... find END tag
+  const state = buffer.save();
+  const res = this._skipUntilEnd(
+    buffer,
+    'Failed to skip indefinite length body: "' + this.tag + '"');
+  if (buffer.isError(res))
+    return res;
+
+  len = buffer.offset - state.offset;
+  buffer.restore(state);
+  return buffer.skip(len, 'Failed to match body of: "' + tag + '"');
+};
+
+DERNode.prototype._skipUntilEnd = function skipUntilEnd(buffer, fail) {
+  for (;;) {
+    const tag = derDecodeTag(buffer, fail);
+    if (buffer.isError(tag))
+      return tag;
+    const len = derDecodeLen(buffer, tag.primitive, fail);
+    if (buffer.isError(len))
+      return len;
+
+    let res;
+    if (tag.primitive || len !== null)
+      res = buffer.skip(len);
+    else
+      res = this._skipUntilEnd(buffer, fail);
+
+    // Failure
+    if (buffer.isError(res))
+      return res;
+
+    if (tag.tagStr === 'end')
+      break;
+  }
+};
+
+DERNode.prototype._decodeList = function decodeList(buffer, tag, decoder,
+  options) {
+  const result = [];
+  while (!buffer.isEmpty()) {
+    const possibleEnd = this._peekTag(buffer, 'end');
+    if (buffer.isError(possibleEnd))
+      return possibleEnd;
+
+    const res = decoder.decode(buffer, 'der', options);
+    if (buffer.isError(res) && possibleEnd)
+      break;
+    result.push(res);
+  }
+  return result;
+};
+
+DERNode.prototype._decodeStr = function decodeStr(buffer, tag) {
+  if (tag === 'bitstr') {
+    const unused = buffer.readUInt8();
+    if (buffer.isError(unused))
+      return unused;
+    return { unused: unused, data: buffer.raw() };
+  } else if (tag === 'bmpstr') {
+    const raw = buffer.raw();
+    if (raw.length % 2 === 1)
+      return buffer.error('Decoding of string type: bmpstr length mismatch');
+
+    let str = '';
+    for (let i = 0; i < raw.length / 2; i++) {
+      str += String.fromCharCode(raw.readUInt16BE(i * 2));
+    }
+    return str;
+  } else if (tag === 'numstr') {
+    const numstr = buffer.raw().toString('ascii');
+    if (!this._isNumstr(numstr)) {
+      return buffer.error('Decoding of string type: ' +
+                          'numstr unsupported characters');
+    }
+    return numstr;
+  } else if (tag === 'octstr') {
+    return buffer.raw();
+  } else if (tag === 'objDesc') {
+    return buffer.raw();
+  } else if (tag === 'printstr') {
+    const printstr = buffer.raw().toString('ascii');
+    if (!this._isPrintstr(printstr)) {
+      return buffer.error('Decoding of string type: ' +
+                          'printstr unsupported characters');
+    }
+    return printstr;
+  } else if (/str$/.test(tag)) {
+    return buffer.raw().toString();
+  } else {
+    return buffer.error('Decoding of string type: ' + tag + ' unsupported');
+  }
+};
+
+DERNode.prototype._decodeObjid = function decodeObjid(buffer, values, relative) {
+  let result;
+  const identifiers = [];
+  let ident = 0;
+  let subident = 0;
+  while (!buffer.isEmpty()) {
+    subident = buffer.readUInt8();
+    ident <<= 7;
+    ident |= subident & 0x7f;
+    if ((subident & 0x80) === 0) {
+      identifiers.push(ident);
+      ident = 0;
+    }
+  }
+  if (subident & 0x80)
+    identifiers.push(ident);
+
+  const first = (identifiers[0] / 40) | 0;
+  const second = identifiers[0] % 40;
+
+  if (relative)
+    result = identifiers;
+  else
+    result = [first, second].concat(identifiers.slice(1));
+
+  if (values) {
+    let tmp = values[result.join(' ')];
+    if (tmp === undefined)
+      tmp = values[result.join('.')];
+    if (tmp !== undefined)
+      result = tmp;
+  }
+
+  return result;
+};
+
+DERNode.prototype._decodeTime = function decodeTime(buffer, tag) {
+  const str = buffer.raw().toString();
+
+  let year;
+  let mon;
+  let day;
+  let hour;
+  let min;
+  let sec;
+  if (tag === 'gentime') {
+    year = str.slice(0, 4) | 0;
+    mon = str.slice(4, 6) | 0;
+    day = str.slice(6, 8) | 0;
+    hour = str.slice(8, 10) | 0;
+    min = str.slice(10, 12) | 0;
+    sec = str.slice(12, 14) | 0;
+  } else if (tag === 'utctime') {
+    year = str.slice(0, 2) | 0;
+    mon = str.slice(2, 4) | 0;
+    day = str.slice(4, 6) | 0;
+    hour = str.slice(6, 8) | 0;
+    min = str.slice(8, 10) | 0;
+    sec = str.slice(10, 12) | 0;
+    if (year < 70)
+      year = 2000 + year;
+    else
+      year = 1900 + year;
+  } else {
+    return buffer.error('Decoding ' + tag + ' time is not supported yet');
+  }
+
+  return Date.UTC(year, mon - 1, day, hour, min, sec, 0);
+};
+
+DERNode.prototype._decodeNull = function decodeNull() {
+  return null;
+};
+
+DERNode.prototype._decodeBool = function decodeBool(buffer) {
+  const res = buffer.readUInt8();
+  if (buffer.isError(res))
+    return res;
+  else
+    return res !== 0;
+};
+
+DERNode.prototype._decodeInt = function decodeInt(buffer, values) {
+  // Bigint, return as it is (assume big endian)
+  const raw = buffer.raw();
+  let res = new bignum(raw);
+
+  if (values)
+    res = values[res.toString(10)] || res;
+
+  return res;
+};
+
+DERNode.prototype._use = function use(entity, obj) {
+  if (typeof entity === 'function')
+    entity = entity(obj);
+  return entity._getDecoder('der').tree;
+};
+
+// Utility methods
+
+function derDecodeTag(buf, fail) {
+  let tag = buf.readUInt8(fail);
+  if (buf.isError(tag))
+    return tag;
+
+  const cls = der.tagClass[tag >> 6];
+  const primitive = (tag & 0x20) === 0;
+
+  // Multi-octet tag - load
+  if ((tag & 0x1f) === 0x1f) {
+    let oct = tag;
+    tag = 0;
+    while ((oct & 0x80) === 0x80) {
+      oct = buf.readUInt8(fail);
+      if (buf.isError(oct))
+        return oct;
+
+      tag <<= 7;
+      tag |= oct & 0x7f;
+    }
+  } else {
+    tag &= 0x1f;
+  }
+  const tagStr = der.tag[tag];
+
+  return {
+    cls: cls,
+    primitive: primitive,
+    tag: tag,
+    tagStr: tagStr
+  };
+}
+
+function derDecodeLen(buf, primitive, fail) {
+  let len = buf.readUInt8(fail);
+  
